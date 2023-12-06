@@ -1,0 +1,156 @@
+﻿eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,ownerInstitutionCode,plot 
+s1birds,,HumanObservation,2,2,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,AJ,Event,,S
+s1birds,,HumanObservation,2,2,individuals,present,Prunella modularis,Animalia,Chordata,Aves,Passeriformes,Prunellidae,Prunella,Prunella modularis,,species,AJ,Event,,S
+s1birds,,HumanObservation,5,5,individuals,present,Parus major,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,Parus major,,species,AJ,Event,,S
+s1birds,,HumanObservation,11,11,individuals,present,Periparus ater,Animalia,Chordata,Aves,Passeriformes,Paridae,Periparus,Periparus ater,,species,AJ,Event,,S
+s1birds,,HumanObservation,2,2,individuals,present,Anthus pratensis,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus pratensis,,species,AJ,Event,,S
+s1birds,,HumanObservation,2,2,individuals,present,Fringilla coelebs,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Fringilla,Fringilla coelebs,,species,AJ,Event,,S
+s1birds,,HumanObservation,1,1,individuals,present,Carduelis spinus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,Carduelis spinus,,species,AJ,Event,,S
+s1birds,,HumanObservation,1,1,individuals,present,Cyanistes caeruleus,Animalia,Chordata,Aves,Passeriformes,Paridae,Cyanistes,Cyanistes caeruleus,,species,AJ,Event,,S
+s2birds,,HumanObservation,5,5,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,AJ,Event,,S
+s2birds,,HumanObservation,3,3,individuals,present,Anthus pratensis,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus pratensis,,species,AJ,Event,,S
+s2birds,,HumanObservation,2,2,individuals,present,Fringilla coelebs,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Fringilla,Fringilla coelebs,,species,AJ,Event,,S
+s2birds,,HumanObservation,1,1,individuals,present,Erithacus rubecula,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Erithacus,Erithacus rubecula,,species,AJ,Event,,S
+s2birds,,HumanObservation,1,1,individuals,present,Parus major,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,Parus major,,species,AJ,Event,,S
+s3birds,,HumanObservation,2,2,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,AJ,Event,,S
+s3birds,,HumanObservation,2,2,individuals,present,Parus major,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,Parus major,,species,AJ,Event,,S
+s3birds,,HumanObservation,1,1,individuals,present,Regulus regulus,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Regulus,Regulus regulus,,species,AJ,Event,,S
+s3birds,,HumanObservation,1,1,individuals,present,Anthus pratensis,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus pratensis,,species,AJ,Event,,S
+s3birds,,HumanObservation,1,1,individuals,present,Fringilla coelebs,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Fringilla,Fringilla coelebs,,species,AJ,Event,,S
+s3birds,,HumanObservation,1,1,individuals,present,Erithacus rubecula,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Erithacus,Erithacus rubecula,,species,AJ,Event,,S
+pointSbirds,,HumanObservation,6,6,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,AK,event,,S
+pointSbirds,,HumanObservation,4,4,individuals,present,Erithacus rubecula,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Erithacus,Erithacus rubecula,,species,AK,event ,,S
+pointSbirds,,HumanObservation,2,2,individuals,present,Prunella modularis,Animalia,Chordata,Aves,Passeriformes,Prunellidae,Prunella,Prunella modularis,,species,AK,event,,S
+pointSbirds,,HumanObservation,2,2,individuals,present,Coloeus monedula,Animalia,Chordata,Aves,Passeriformes,Corvidae,Coloeus,Coloeus monedula,,species,AKe,event,,S
+SHS1ter-inverts,,Human Observation,1,1,individuals,present,Araneus quadratus,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Araneus,Araneus quadratus,,Species,Beñat,,,S
+SHS1ter-inverts,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SHS1ter-inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,,,,Family,Beñat,,,S
+SHS1ter-inverts,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,,,,Family,Beñat,,,S
+SHS1ter-inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,Order,Beñat,,,S
+SHS1ter-inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Thysanoptera,,,,,Order,Beñat,,,S
+SHS2ter-inverts,,Human Observation,3,3,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SHS2ter-inverts,,Human Observation,1,1,individuals,present,Odiellus spinosus,Animalia,Arthropoda,Arachnida,Opiliones,Phalangiidae,Odiellus,Odiellus spinosus,,Species,Beñat,,,S
+SHS2ter-inverts,,Human Observation,3,3,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,,,,Family,Beñat,,,S
+SHS3inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,,,,Family,Beñat,,,S
+SHS3inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,,,,Family,Beñat,,,S
+SHS4inverts,,Human Observation,5,5,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,,,,Family,Beñat,,,S
+SHS4inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,Order,Beñat,,,S
+SHS4inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,,,,Family,Beñat,,,S
+SHS4inverts,,Human Observation,1,1,individuals,present,,Animalia,Mollusca,Gastropoda,,,,,,,Beñat,,,S
+SHS4inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SHS4inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,,,,Family,Beñat,,,S
+SHS5inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,,,,Family,Beñat,,,S
+SHS5inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,,,,Family,Beñat,,,S
+SHS5inverts,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SHS5inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Lygaeidae,,,,Family,Beñat,,,S
+SHS6inverts,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SHS6inverts,,Human Observation,3,3,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,Order,Beñat,,,S
+SHS6inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,,,,Family,Beñat,,,S
+SHS7inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,,,,Family,Beñat,,,S
+SHS7inverts,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cixiidae,,,,Family,Beñat,,,S
+SHS7inverts,,Human Observation,1,1,individuals,present,Gonatium rubens,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,Gonatium,Gonatium rubens,,Species,Beñat,,,S
+SHS7inverts,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,Family,Beñat,,,S
+SLP2inverts,,HumanObservation,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,Order,,,,S
+SLP3inverts,,HumanObservation,1,1,,present,,Animalia,Arthropoda,Arachnida,Araneae,,,,,Order,,,,S
+SLP5inverts,,HumanObservation,1,1,,present,,Animalia,Arthropoda,Arachnida,Araneae,,,,,,,,,S
+SLP5inverts,,HumanObservation,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,,,,,S
+SLP5inverts,,HumanObservation,1,1,,present,,Animalia,Arthropoda,Insecta,Hemiptera,Delphacidae,Conomelus,,,Genus,,,,S
+SLS2inverts,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,,,,,,,,,S
+SLS2inverts,,HumanObservation,2,2,individuals,present,Tipula oleracea,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Oleracea,,Species,Kayleigh,,,S
+SLS4inverts,,HumanObservation,1,1,individuals,present,Tipula oleracea,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Oleracea,,Species,,,,S
+SLS4inverts,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,,,,,,,,,S
+SLS4inverts,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+SLS4inverts,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,,,,,,,,S
+SLS4inverts,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Lepidoptera,,,,,,,,,S
+SLS5,,HumanObservation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,,,,,,,,,,S
+SLS6,,HumanObservation,1,1,individuals,present,,animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,,,,,Beñat,,,S
+SLS6,,HumanObservation,2,2,individuals,present,,animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,,,,,Beñat,,,S
+SMS1,,Human Observation,18,18,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,,Species,Hayward,,,S
+SMS1,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,coleoptera,Caribidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,4,4,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Nabidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Philodromidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Tabanidae,,,,Family,Hayward,,,S
+SMS1,,Human Observation,5,5,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,2,2,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,,Species,Hayward,,,S
+SMS2,,Human Observation,7,7,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,Myrmica rubra,Animalia,Arthropoda,Insecta,Hymenoptera,Myrmicinae,Myrmica,rubra,,Species,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,Formica fusca,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica,fusca,,Family,Hayward,,,S
+SMS2,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Insecta,coleoptera,Caribidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,,,Genus,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Sepsidae,,,,Family,Hayward,,,S
+SMS2,,Human Observation,1,1,individuals,present,Pachytomella parallela,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Pachytomella,parallela,,Species,Hayward,,,S
+SMS3,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,,,,Family,Hayward,,,S
+SMS3,,Human Observation,1,1,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Genus,Hayward,,,S
+SMS3,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Sciaridae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,2,2,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,5,5,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,Pachytomella sp.,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Pachytomella,,,Genus,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,,,Genus,Hayward,,,S
+SMS4,,Human Observation,3,3,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,,Species,Hayward,,,S
+SMS4,,Human Observation,2,2,individuals,present,Zygiella atrica,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Zygiella,atrica,,Species,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Dolicopopidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Lepidoptera,Tortricidae,,,,Family,Hayward,,,S
+SMS4,,Human Observation,1,1,individuals,present,Leptopterna sp.,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Leptoterna,,,Genus,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,,Species,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,,,Genus,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,,,,Family,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,,,,Family,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,,,,Family,Hayward,,,S
+SMS5,,Human Observation,1,1,individuals,present,,Animalia,Arthropoda,Insecta,Thysanoptera,Phlaeothripidae,,,,Family,Hayward,,,S
+SMS5,,Human Observation,3,3,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Dolicopopidae,,,,Family,Hayward,,,S
+SMS5,,Human Observation,8,8,individuals,present,Lipoptena cervi,Animalia,Arthropoda,Insecta,Diptera,Hippoboscidae,Lipoptena,cervi,,Species,Hayward,,,S
+SMS5,,Human Observation,12,12,individuals,present,,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Family,Hayward,,,S
+S1Stream-inverts,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+S1Stream-inverts,,Kicksampling,5,5,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,S
+S1Stream-inverts,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+S2Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,coleoptera,hydrophilidae,,,,,,,,S
+S2Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Plecoptera,capniidae,,,,,,,,S
+S3Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,,,,,S
+S4Stream ,,Kicksampling,1,1,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,S
+S4Stream ,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Plecoptera,capniidae,,,,,,,,S
+S5Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,,,,,S
+S5Stream,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insecta,trichoptera,,,,,,,,,S
+S5Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+S5Stream,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insecta,Plecoptera,capniidae,,,,,,,,S
+S1Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,,,,,S
+S1Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,odonata,,,,,,,,,S
+S2Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,trichoptera,,,,,,,,,S
+S2Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,odonata,,,,,,,,,S
+S3Marsh,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,odonata,,,,,,,,,S
+S3Marsh,,Kicksampling,2,2,,present,,Animalia,Arthropoda,Insecta,ephemeroptera,,,,,,,,,S
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,,,,,,,,,S
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+S4Marsh,,Kicksampling,2,2,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,S
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,ephemeroptera,,,,,,,,,S
+S5Marsh,,Kicksampling,1,1,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,S
+S5Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,odonata,,,,,,,,,S
+S5Marsh,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,coleoptera,,,,,,,,,S
+S6Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,odonata,,,,,,,,,S
+s1trees,,HumanObservation,37,37,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,,species,JS,event,,S
+s1trees,,HumanObservation,17,17,individuals ,present,Ulex europaeus,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Ulex,Ulex europaeus,,species,JS,event,,S
+s1trees,,HumanObservation,17,17,individuals ,present,Betula pendula ,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Betulaceae,Betula,Betula pendula ,,species,JS,event,,S
+s1trees,,HumanObservation,1,1,individuals ,present,Ilex aquifolium ,Plantae ,Magnoliophyta,Magnoliopsida,Aquifoliales,Aquifoliaceae,Ilex,Ilex aquifolium ,,species,JS ,event,,S
+s1trees,,HumanObservation,2,2,individuals ,present,Fraxinus excelsior,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,,species,JS ,event,,S
+s2trees,,HumanObservation,15,15,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,,species,JS,event,,S
+s3trees,,HumanObservation,1,1,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,,species,JS,event,,S
+s3trees,,HumanObservation,29,29,individuals,present,Betula pendula ,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Betulaceae,Betula,Betula pendula ,,species,JS,event,,S
+s3trees,,HumanObservation,2,2,individuals,present,Fraxinus excelsior,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,,species,JS,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Barbastellus barbastellus,animalia,chordata,mammalia,chiroptera,vespertilionidae,barbastella,B. barbastellus,,species,EM&PM,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Myotis nattereri,animalia,chordata,mammalia,chiroptera,vespertilionidae,myotis,M. nattereri,,species,EM&PM,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Pipistrellus nathusii,animalia,chordata,mammalia,chiroptera,vespertilionidae,pipistrellus,P. nathusii,,species,EM&PM,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Pipistrellus pipistrellus,animalia,chordata,mammalia,chiroptera,vespertilionidae,pipistrellus,P. pipistrellus,,species,EM&PM,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Pipistrellus pygmaeus,animalia,chordata,mammalia,chiroptera,vespertilionidae,pipistrellus,P. pygmaeus,,species,EM&PM,event,,S
+SouthN1Bats,,AudioMoth recordings,1,1,individuals,present,Rhinolophus hipposideros,animalia,chordata,mammalia,chiroptera,vespertilionidae,rhinolophus,R. hipposideros,,species,EM&PM,event,,S
+SouthN2Bats,,AudioMoth recordings,1,1,individuals,present,Barbastellus barbastellus,animalia,chordata,mammalia,chiroptera,vespertilionidae,barbastella,B. barbastellus,,species,EM&PM,event,,S
+SouthN2Bats,,AudioMoth recordings,1,1,individuals,present,Pipistrellus pipistrellus,animalia,chordata,mammalia,chiroptera,vespertilionidae,pipistrellus,P. pipistrellus,,species,EM&PM,event,,S
+south2-1Cam,,Camera traps -photo,1,1,individuals,present,Cervus elaphus,animalia,chordata,mammalia,artiodactyla,cervidae,cervus,Cervus elaphus,,species,Cale,event,,S
+south4-1Cam,,Camera traps -photo,1,1,individuals,present,Cervus elaphus,animalia,chordata,mammalia,artiodactyla,cervidae,cervus,Cervus elaphus,,species,Cale,event,,S
+south5-1Cam,,Camera traps -photo,1,1,individuals,present,Cervus elaphus,animalia,chordata,mammalia,artiodactyla,cervidae,cervus,Cervus elaphus,,species,Cale,event,,S
+south5-2Cam,,Camera traps -photo,1,1,individuals,present,Cervus elaphus,animalia,chordata,mammalia,artiodactyla,cervidae,cervus,Cervus elaphus,,species,Cale,event,,S
+south5-3Cam,,Camera traps -photo,1,1,individuals,present,Cervus elaphus,animalia,chordata,mammalia,artiodactyla,cervidae,cervus,Cervus elaphus,,species,Cale,event,,S

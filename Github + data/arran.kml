@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="KMLExport" id="KMLExport">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="fontSize" type="string"></SimpleField>
+	<SimpleField name="fontFamily" type="string"></SimpleField>
+	<SimpleField name="fontColor" type="string"></SimpleField>
+	<SimpleField name="fontWeight" type="string"></SimpleField>
+	<SimpleField name="textBold" type="int"></SimpleField>
+	<SimpleField name="textItalics" type="int"></SimpleField>
+	<SimpleField name="textUnderlined" type="int"></SimpleField>
+	<SimpleField name="textOutline" type="int"></SimpleField>
+	<SimpleField name="labelHaloWidth" type="int"></SimpleField>
+	<SimpleField name="labelHaloColor" type="string"></SimpleField>
+	<SimpleField name="labelAlign" type="string"></SimpleField>
+	<SimpleField name="alignment" type="int"></SimpleField>
+	<SimpleField name="labelXOffset" type="int"></SimpleField>
+	<SimpleField name="labelYOffset" type="int"></SimpleField>
+	<SimpleField name="strokeColor" type="string"></SimpleField>
+	<SimpleField name="strokeStyle" type="string"></SimpleField>
+	<SimpleField name="strokeWidth" type="int"></SimpleField>
+	<SimpleField name="strokeOpacity" type="int"></SimpleField>
+	<SimpleField name="strokeLinecap" type="string"></SimpleField>
+	<SimpleField name="internal" type="int"></SimpleField>
+	<SimpleField name="marker" type="int"></SimpleField>
+	<SimpleField name="pointRadius" type="int"></SimpleField>
+	<SimpleField name="hideOverlap" type="int"></SimpleField>
+	<SimpleField name="fillColor" type="string"></SimpleField>
+	<SimpleField name="fillOpacity" type="float"></SimpleField>
+	<SimpleField name="fcode" type="int"></SimpleField>
+</Schema>
+<Folder><name>KMLExport</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KMLExport">
+		<SimpleData name="id">OpenLayers_Feature_Vector_1</SimpleData>
+		<SimpleData name="fontSize">24px</SimpleData>
+		<SimpleData name="fontFamily">Arial</SimpleData>
+		<SimpleData name="fontColor">#000000</SimpleData>
+		<SimpleData name="fontWeight">bold</SimpleData>
+		<SimpleData name="textBold">1</SimpleData>
+		<SimpleData name="textItalics">0</SimpleData>
+		<SimpleData name="textUnderlined">0</SimpleData>
+		<SimpleData name="textOutline">1</SimpleData>
+		<SimpleData name="labelHaloWidth">4</SimpleData>
+		<SimpleData name="labelHaloColor">#FFFFFF</SimpleData>
+		<SimpleData name="labelAlign">lt</SimpleData>
+		<SimpleData name="alignment">0</SimpleData>
+		<SimpleData name="labelXOffset">18</SimpleData>
+		<SimpleData name="labelYOffset">18</SimpleData>
+		<SimpleData name="strokeColor">#800080</SimpleData>
+		<SimpleData name="strokeStyle">solid</SimpleData>
+		<SimpleData name="strokeWidth">3</SimpleData>
+		<SimpleData name="strokeOpacity">1</SimpleData>
+		<SimpleData name="strokeLinecap">round</SimpleData>
+		<SimpleData name="internal">0</SimpleData>
+		<SimpleData name="marker">0</SimpleData>
+		<SimpleData name="pointRadius">15</SimpleData>
+		<SimpleData name="hideOverlap">0</SimpleData>
+		<SimpleData name="fillColor">#CC99FF</SimpleData>
+		<SimpleData name="fillOpacity">0.5</SimpleData>
+		<SimpleData name="fcode">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5.30193708095713,55.7095423023038 -5.25929135502646,55.7111657098652 -5.25623052306459,55.6846779036516 -5.30076509054111,55.6834874058516 -5.30193708095713,55.7095423023038</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KMLExport">
+		<SimpleData name="id">OpenLayers_Feature_Vector_2</SimpleData>
+		<SimpleData name="fontSize">24px</SimpleData>
+		<SimpleData name="fontFamily">Arial</SimpleData>
+		<SimpleData name="fontColor">#000000</SimpleData>
+		<SimpleData name="fontWeight">bold</SimpleData>
+		<SimpleData name="textBold">1</SimpleData>
+		<SimpleData name="textItalics">0</SimpleData>
+		<SimpleData name="textUnderlined">0</SimpleData>
+		<SimpleData name="textOutline">1</SimpleData>
+		<SimpleData name="labelHaloWidth">4</SimpleData>
+		<SimpleData name="labelHaloColor">#FFFFFF</SimpleData>
+		<SimpleData name="labelAlign">lt</SimpleData>
+		<SimpleData name="alignment">0</SimpleData>
+		<SimpleData name="labelXOffset">18</SimpleData>
+		<SimpleData name="labelYOffset">18</SimpleData>
+		<SimpleData name="strokeColor">#800080</SimpleData>
+		<SimpleData name="strokeStyle">solid</SimpleData>
+		<SimpleData name="strokeWidth">3</SimpleData>
+		<SimpleData name="strokeOpacity">1</SimpleData>
+		<SimpleData name="strokeLinecap">round</SimpleData>
+		<SimpleData name="internal">0</SimpleData>
+		<SimpleData name="marker">0</SimpleData>
+		<SimpleData name="pointRadius">15</SimpleData>
+		<SimpleData name="hideOverlap">0</SimpleData>
+		<SimpleData name="fillColor">#CC99FF</SimpleData>
+		<SimpleData name="fillOpacity">0.5</SimpleData>
+		<SimpleData name="fcode">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5.28911738264325,55.7015776922589 -5.28878867218636,55.7159822693672 -5.28878867218636,55.7159822693672 -5.28911738264325,55.7015776922589</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

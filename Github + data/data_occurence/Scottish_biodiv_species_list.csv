@@ -1,0 +1,765 @@
+﻿Main group,Taxon group,scientificName,Common name,Conservation action needed,Avoid negative impacts,Watching brief only,Link to Species Records on NBN Gateway,Threatened species,Legally protected species,S1 - on UKBAP list,S2International.Obligation,S3 - Rare in the UK (<16 10km sqs),S4 - <6 Scottish 10km sqs,S5 - >25% Scottish Decline,S6a - Endemic to Scotland,S6b - endemic sub-species/ race,Taxon Version Key,UKBAP Code
+Mammals,land mammal,Arvicola amphibius,Water Vole,Yes,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,Yes,-,-,NHMSYS0020546253,115
+Mammals,land mammal,Erinaceus europaeus,European Hedgehog,-,-,Yes,NBN map,-,-,Yes,-,-,-,,-,-,NBNSYS0000005078,2253
+Mammals,land mammal,Felis silvestris,Wildcat,Yes,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,Yes,-,-,NHMSYS0000332741,2272
+Mammals,land mammal,Lepus europaeus,Brown Hare,Yes,-,-,NBN map,-,-,Yes,-,-,-,Yes,-,-,NHMSYS0000080218,410
+Mammals,land mammal,Lepus timidus,Mountain Hare,-,Yes,-,NBN map,-,HR 1994 3,-,-,-,-,Yes,-,-,NBNSYS0000005106,2379
+Mammals,land mammal,Lutra lutra,Otter,-,Yes,-,NBN map,NT,"EPS 1,2,3",Yes,Yes,-,-,-,-,-,NBNSYS0000005133,428
+Mammals,land mammal,Martes martes,Pine Marten,-,Yes,-,NBN map,-,"HR 1994 2,3",Yes,-,-,-,-,-,-,NHMSYS0000080190,2405
+Mammals,land mammal,Microtus arvalis,Orkney Vole,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000080208,
+Mammals,land mammal,Mustela putorius,Polecat,-,Yes,-,NBN map,-,HR 1994 3,Yes,-,-,-,-,-,-,NBNSYS0000005129,2442
+Mammals,land mammal,Myotis brandtii,Brandt's Bat,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000528026,
+Mammals,land mammal,Myotis daubentonii,Daubenton's Bat,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000528028,
+Mammals,land mammal,Myotis mystacinus,Whiskered Bat,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000080183,
+Mammals,land mammal,Myotis nattereri,Natterer's Bat,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000080184,
+Mammals,land mammal,Nyctalus noctula,Noctule,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000080186,2459
+Mammals,land mammal,Pipistrellus nathusii,Nathusius's Pipistrelle,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NHMSYS0000080187,
+Mammals,land mammal,Pipistrellus pipistrellus,Pipistrelle,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,-,-,-,-,-,NHMSYS0020001356,
+Mammals,land mammal,Pipistrellus pygmaeus,Soprano Pipistrelle,-,Yes,-,NBN map,-,"EPS 1,3",Yes,Yes,-,-,-,-,-,NBNSYS0100004720,519
+Mammals,land mammal,Plecotus auritus,Brown Long-eared Bat,-,Yes,-,NBN map,-,"EPS 1,2,3",-,Yes,-,-,-,-,-,NBNSYS0000005102,2517
+Mammals,land mammal,Rattus rattus,Black Rat,Yes,-,-,NBN map,-,-,-,-,Yes,Yes,Yes,-,-,NHMSYS0000080213,
+Mammals,land mammal,Sciurus vulgaris,Red Squirrel,Yes,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,-,-,-,NBNSYS0000005108,565
+Reptiles & amphibians,amphibian,Bufo bufo,Common Toad,-,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0000080159,2106
+Reptiles & amphibians,amphibian,Epidalea calamita,Natterjack Toad,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,-,Yes,-,-,-,NHMSYS0020194825,173
+Reptiles & amphibians,amphibian,Triturus cristatus,Great Crested Newt,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,-,-,-,-,-,NHMSYS0000080156,619
+Reptiles & amphibians,reptile,Anguis fragilis,Slow-worm,-,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,-,-,-,NBNSYS0000005072,2039
+Reptiles & amphibians,reptile,Lacerta agilis,Sand Lizard,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,-,Yes,-,-,-,NBNSYS0000005070,397
+Reptiles & amphibians,reptile,Vipera berus,Adder,-,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,-,-,-,NBNSYS0000005075,2695
+Reptiles & amphibians,reptile,Zootoca vivipara,Common Lizard,-,Yes,-,NBN map,-,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0001706186,2356
+Birds,bird,Acrocephalus scirpaceus,Reed Warbler,-,Yes,-,NBN map,-,ELD,-,-,-,Yes,-,-,-,NHMSYS0000530130,
+Birds,bird,Alauda arvensis,Sky Lark,-,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530139,80
+Birds,bird,Alcedo atthis,Kingfisher,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530141,
+Birds,bird,Anas querquedula,Garganey,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,-,-,Yes,-,-,-,NBNSYS0000000136,
+Birds,bird,Anser albifrons,Greenland White-fronted Goose,Yes,Yes,-,NBN map,-,ELD,-,Yes,-,-,-,-,-,NHMSYS0000530149,2042
+Birds,bird,Anser fabalis,Bean Goose,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,Yes,-,-,-,NBNSYS0000000213,
+Birds,bird,Anthus trivialis,Tree Pipit,-,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530162,2044
+Birds,bird,Apus apus,Swift,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530165,
+Birds,bird,Aquila chrysaetos,Golden Eagle,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530170,
+Birds,bird,Asio flammeus,Short-eared Owl,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NHMSYS0000530180,
+Birds,bird,Aythya ferina,Pochard,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000137,
+Birds,bird,Aythya marila,Scaup,Yes,Yes,-,NBN map,Red,WCA 1981 3,-,-,Yes,Yes,Yes,-,-,NBNSYS0000000193,2072
+Birds,bird,Botaurus stellaris,Bittern,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,Yes,-,-,-,-,NHMSYS0000530210,
+Birds,bird,Branta leucopsis,Barnacle Goose,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000214,
+Birds,bird,Calidris alpina,Dunlin,-,Yes,-,NBN map,Red,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000035,
+Birds,bird,Calidris maritima,Purple Sandpiper,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,-,Yes,Yes,-,-,-,NBNSYS0000000167,
+Birds,bird,Calidris temminckii,Temminck's Stint,Yes,Yes,-,NBN map,Red,WCA 1981 3,-,-,Yes,Yes,-,-,-,NBNSYS0000000174,
+Birds,bird,Caprimulgus europaeus,Nightjar,Yes,Yes,-,NBN map,Red,ELD,Yes,Yes,-,-,-,-,-,NHMSYS0000530242,186
+Birds,bird,Carduelis cabaret,Lesser Redpoll,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,-,Yes,-,-,NHMSYS0000530245,2129
+Birds,bird,Carduelis cannabina,Linnet,-,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530246,188
+Birds,bird,Carduelis flavirostris subsp. bensonorum/pipilans,Twite,Yes,-,-,NBN map,-,-,Yes,-,-,-,Yes,-,-,NHMSYS0020193652,2130
+Birds,bird,Carduelis spinus,Siskin,Yes,Yes,-,NBN map,-,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530252,
+Birds,bird,Carpodacus erythrinus,Common Rosefinch,-,Yes,-,NBN map,-,WCA 1981 3,-,-,Yes,Yes,-,-,-,NHMSYS0000530254,
+Birds,bird,Charadrius morinellus,Dotterel,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NBNSYS0000000176,
+Birds,bird,Circus aeruginosus,Marsh Harrier,Yes,Yes,-,NBN map,Amber,ELD,-,Yes,-,Yes,-,-,-,NHMSYS0000530293,
+Birds,bird,Circus cyaneus,Hen Harrier,-,Yes,-,NBN map,Red,ELD,-,Yes,-,-,-,-,-,NHMSYS0000530294,
+Birds,bird,Coccothraustes coccothraustes,Hawfinch,Yes,-,-,NBN map,Red,-,-,-,-,-,Yes,-,-,NHMSYS0000530302,2182
+Birds,bird,Corvus cornix,Hooded Crow,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000530314,
+Birds,bird,Crex crex,Corn Crake,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,-,-,-,-,-,NHMSYS0000530322,244
+Birds,bird,Cuculus canorus,Cuckoo,-,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530324,2202
+Birds,bird,Cygnus columbianus,Bewick's Swan,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NBNSYS0000000200,2206
+Birds,bird,Cygnus cygnus,Whooper Swan,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,Yes,Yes,-,-,-,NBNSYS0000000199,
+Birds,bird,Emberiza calandra,Corn Bunting,Yes,-,-,NBN map,Red,-,Yes,-,-,-,Yes,-,-,NHMSYS0001688304,457
+Birds,bird,Emberiza citrinella,Yellowhammer,-,-,Yes,NBN map,Red,-,Yes,-,-,-,-,-,-,NHMSYS0000530727,2238
+Birds,bird,Emberiza schoeniclus,Reed Bunting,-,-,Yes,NBN map,Amber,-,Yes,-,-,-,-,-,-,NHMSYS0000530734,279
+Birds,bird,Falco columbarius,Merlin,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530743,
+Birds,bird,Falco peregrinus,Peregrine Falcon,-,Yes,-,NBN map,-,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530354,
+Birds,bird,Falco subbuteo,Hobby,-,Yes,-,NBN map,-,WCA 1981 3,-,-,-,Yes,-,-,-,NHMSYS0000530357,
+Birds,bird,Falco tinnunculus,Kestrel,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530358,
+Birds,bird,Fringilla montifringilla,Brambling,-,Yes,-,NBN map,-,WCA 1981 3,-,-,Yes,Yes,-,-,-,NHMSYS0000530368,
+Birds,bird,Gavia arctica,Black-throated Diver,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000219,2283
+Birds,bird,Gavia immer,Great Northern Diver,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000220,
+Birds,bird,Gavia stellata,Red-throated Diver,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000218,
+Birds,bird,Haliaeetus albicilla,White-tailed Eagle,Yes,Yes,-,NBN map,Red,WCA 1981 3,-,Yes,Yes,-,-,-,-,NBNSYS0000000281,
+Birds,bird,Hydrobates pelagicus,Storm-petrel,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000236,
+Birds,bird,Jynx torquilla,Wryneck,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,-,Yes,Yes,-,-,-,NHMSYS0000530418,395
+Birds,bird,Lagopus lagopus subsp. scotica,Red Grouse,Yes,-,-,NBN map,-,-,Yes,-,-,-,Yes,-,-,NHMSYS0000533983,2358
+Birds,bird,Lanius collurio,Red-backed Shrike,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,Yes,Yes,-,-,-,NHMSYS0000530423,
+Birds,bird,Larus argentatus,Herring Gull,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000038,2362
+Birds,bird,Larus ridibundus,Black-headed Gull,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000351,
+Birds,bird,Limosa lapponica,Bar-tailed Godwit,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000146,
+Birds,bird,Limosa limosa,Black-tailed Godwit,Yes,Yes,-,NBN map,Red,WCA 1981 3,-,-,Yes,Yes,-,-,-,NBNSYS0000000145,
+Birds,bird,Locustella naevia,Grasshopper Warbler,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,-,Yes,-,-,NHMSYS0000530444,2388
+Birds,bird,Loxia pytyopsittacus,Parrot Crossbill,Yes,Yes,-,NBN map,Amber,ELD,-,-,Yes,-,-,-,-,NHMSYS0000530456,
+Birds,bird,Loxia scotica,Scottish Crossbill,-,-,-,NBN map,Amber,ELD,Yes,Yes,-,-,-,Yes,-,NHMSYS0000530457,424
+Birds,bird,Melanitta nigra,Common Scoter,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,-,-,-,Yes,-,-,NBNSYS0000000196,444
+Birds,bird,Mergellus albellus,Smew,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NHMSYS0000530474,
+Birds,bird,Milvus milvus,Red Kite,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530482,
+Birds,bird,Motacilla flava,Yellow Wagtail,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530496,2440
+Birds,bird,Muscicapa striata,Spotted Flycatcher,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530498,463
+Birds,bird,Numenius arquata,Curlew,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000032,2458
+Birds,bird,Oceanodroma leucorhoa,Leach's Storm-petrel,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,Yes,-,-,-,-,NHMSYS0000530508,
+Birds,bird,Pandion haliaetus,Osprey,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NBNSYS0000000292,
+Birds,bird,Panurus biarmicus,Bearded Tit,Yes,Yes,-,NBN map,Amber,WCA 1981,-,-,-,Yes,-,-,-,NHMSYS0000530526,
+Birds,bird,Passer domesticus,House Sparrow,-,-,Yes,NBN map,Red,-,Yes,-,-,-,-,-,-,NHMSYS0000530537,2488
+Birds,bird,Passer montanus,Tree Sparrow,Yes,-,-,NBN map,Red,-,Yes,-,-,-,Yes,-,-,NHMSYS0000530539,503
+Birds,bird,Perdix perdix,Grey Partridge,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,-,Yes,-,-,NHMSYS0000530548,506
+Birds,bird,Pernis apivorus,Honey-buzzard,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,Yes,Yes,-,-,-,NHMSYS0000530550,
+Birds,bird,Phalaropus lobatus,Red-necked Phalarope,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,Yes,Yes,-,-,-,NBNSYS0000000172,510
+Birds,bird,Philomachus pugnax,Ruff,-,Yes,-,NBN map,Red,WCA 1981 3,-,Yes,-,-,-,-,-,NBNSYS0000000153,
+Birds,bird,Phylloscopus sibilatrix,Wood Warbler,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530757,2507
+Birds,bird,Plectrophenax nivalis,Snow Bunting,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,-,Yes,-,-,-,-,NHMSYS0000530776,
+Birds,bird,Pluvialis apricaria,Golden Plover,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000029,
+Birds,bird,Podiceps auritus,Slavonian Grebe,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,Yes,-,-,NBNSYS0000000224,
+Birds,bird,Podiceps grisegena,Red-necked Grebe,Yes,Yes,-,NBN map,Amber,ELD,-,-,Yes,Yes,-,-,-,NBNSYS0000000223,
+Birds,bird,Podiceps nigricollis,Black-necked Grebe,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,-,Yes,Yes,-,-,-,NBNSYS0000000225,
+Birds,bird,Poecile montanus,Willow Tit,Yes,-,-,NBN map,Red,-,-,-,-,-,Yes,-,-,NHMSYS0001688302,2486
+Birds,bird,Poecile palustris subsp. palustris/dresseri,Marsh Tit,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0020212828,2487
+Birds,bird,Porzana porzana,Spotted Crake,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,Yes,-,-,-,-,NHMSYS0000530787,
+Birds,bird,Prunella modularis subsp. occidentalis,Hedge Accentor,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0020303179,2535
+Birds,bird,Puffinus mauretanicus,Balearic Shearwater,Yes,Yes,-,NBN map,CR,ELD,Yes,-,Yes,Yes,-,-,-,NHMSYS0000530798,2547
+Birds,bird,Puffinus puffinus,Manx Shearwater,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000014,
+Birds,bird,Pyrrhocorax pyrrhocorax,Red-billed Chough,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0000530800,
+Birds,bird,Pyrrhula pyrrhula,Bullfinch,-,-,Yes,NBN map,Amber,-,Yes,-,-,-,-,-,-,NHMSYS0000530802,542
+Birds,bird,Scolopax rusticola,Woodcock,Yes,Yes,-,NBN map,Amber,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000031,
+Birds,bird,Stercorarius parasiticus,Arctic Skua,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000341,2627
+Birds,bird,Sterna dougallii,Roseate Tern,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,-,Yes,Yes,-,-,NBNSYS0000000364,587
+Birds,bird,Sterna hirundo,Common Tern,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000138,
+Birds,bird,Sterna paradisaea,Arctic Tern,-,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,-,-,-,NBNSYS0000000365,
+Birds,bird,Sterna sandvicensis,Sandwich Tern,Yes,Yes,-,NBN map,Amber,ELD,-,Yes,-,-,Yes,-,-,NBNSYS0000000363,
+Birds,bird,Sternula albifrons,Little Tern,-,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,-,-,-,-,-,NHMSYS0001688285,
+Birds,bird,Streptopelia turtur,Turtle Dove,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,Yes,Yes,-,-,NHMSYS0000530623,589
+Birds,bird,Sturnus vulgaris subsp. vulgaris,Starling,-,Yes,-,NBN map,-,ELD,Yes,-,-,-,-,-,-,NHMSYS0020193673,2636
+Birds,bird,Tetrao tetrix,Black Grouse,Yes,Yes,-,NBN map,Red,ELD,Yes,-,-,-,Yes,-,-,NHMSYS0000530658,596
+Birds,bird,Tetrao urogallus,Capercaillie,Yes,Yes,-,NBN map,Red,WCA 1981 3,Yes,Yes,-,-,Yes,-,-,NHMSYS0000530659,597
+Birds,bird,Tringa glareola,Wood Sandpiper,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,Yes,Yes,Yes,-,-,-,NBNSYS0000000148,
+Birds,bird,Tringa ochropus,Green Sandpiper,Yes,Yes,-,NBN map,Amber,WCA 1981 3,-,-,Yes,Yes,-,-,-,NBNSYS0000000147,
+Birds,bird,Troglodytes troglodytes subsp. fridariensis,Fair Isle Wren,Yes,Yes,-,NBN map,Red,ELD,-,Yes,Yes,Yes,-,-,Yes,NHMSYS0001596569,2673
+Birds,bird,Troglodytes troglodytes subsp. hirtensis,St Kilda Wren,Yes,Yes,-,NBN map,Red,-,-,-,Yes,Yes,-,-,Yes,NHMSYS0001596570,2674
+Birds,bird,Turdus iliacus,Redwing,Yes,Yes,-,NBN map,Red,WCA 1981 3,-,-,-,-,Yes,-,-,NHMSYS0000530673,
+Birds,bird,Turdus philomelos,Song Thrush,-,Yes,-,NBN map,Red,ELD,Yes,-,-,-,-,-,-,NHMSYS0000530678,621
+Birds,bird,Turdus philomelos subsp. hebridensis,Hebridean Song Thrush,Yes,-,-,NBN map,Red,-,Yes,-,-,-,-,-,Yes,NHMSYS0020303240,2677
+Birds,bird,Turdus torquatus,Ring Ouzel,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NHMSYS0000530681,2678
+Birds,bird,Tyto alba,Barn Owl,Yes,Yes,-,NBN map,Amber,WCA 1981,-,-,-,-,Yes,-,-,NHMSYS0000530685,
+Birds,bird,Vanellus vanellus,Northern Lapwing,Yes,Yes,-,NBN map,Red,ELD,-,-,-,-,Yes,-,-,NBNSYS0000000027,2687
+Terrestrial invertebrates,insect - beetle (Coleoptera),Anacaena limbata,Scavenger Water Beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001716791,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Bembidion (Ocydromus) testaceum,Pale Pin-palp,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0001717175,143
+Terrestrial invertebrates,insect - beetle (Coleoptera),Calosoma inquisitor,Caterpillar-hunter,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000007143,2120
+Terrestrial invertebrates,insect - beetle (Coleoptera),Chrysanthia nigricornis,a false blister beetle,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NHMSYS0020151683,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Cryptocephalus decemmaculatus,Ten-spotted Pot Beetle,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000011126,247
+Terrestrial invertebrates,insect - beetle (Coleoptera),Cryptocephalus sexpunctatus,Six-spotted Pot Beetle,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000011140,251
+Terrestrial invertebrates,insect - beetle (Coleoptera),Eubrychius velutus,a weevil,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000025410,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Macroplea appendiculata,a leaf beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011083,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Meloe violaceus,Violet Oil-beetle,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000024952,2423
+Terrestrial invertebrates,insect - beetle (Coleoptera),Meotica anglica,Shingle Rove Beetle,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,Yes,-,NHMSYS0001718979,448
+Terrestrial invertebrates,insect - beetle (Coleoptera),Noterus crassicornis,Smaller Noterus,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719174,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Philorhizus quadrisignatus,Mab's Lantern,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0001719554,272
+Terrestrial invertebrates,insect - beetle (Coleoptera),Procas granulicollis,a weevil,-,-,Yes,NBN map,DD,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000025323,
+Terrestrial invertebrates,insect - beetle (Coleoptera),Tournotaris bimaculatus,a beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020153634,
+Terrestrial invertebrates,insect - butterfly,Aricia artaxerxes,Northern Brown Argus,-,Yes,-,NBN map,VU,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0000516231,109
+Terrestrial invertebrates,insect - butterfly,Boloria euphrosyne,Pearl-bordered Fritillary,Yes,Yes,-,NBN map,EN,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0000501513,151
+Terrestrial invertebrates,insect - butterfly,Boloria selene,Small Pearl-bordered Fritillary,-,-,Yes,NBN map,NT,-,Yes,-,-,-,-,-,-,NHMSYS0000516240,2088
+Terrestrial invertebrates,insect - butterfly,Carterocephalus palaemon,Chequered Skipper,Yes,Yes,-,NBN map,EN,WCA 1981,Yes,-,Yes,-,-,-,-,NHMSYS0000501644,192
+Terrestrial invertebrates,insect - butterfly,Coenonympha pamphilus,Small Heath,Yes,-,-,NBN map,NT,-,Yes,-,-,-,Yes,-,-,NHMSYS0000519083,2183
+Terrestrial invertebrates,insect - butterfly,Coenonympha tullia,Large Heath,Yes,Yes,-,NBN map,VU,WCA 1981,Yes,-,-,-,Yes,-,-,NHMSYS0000519078,2184
+Terrestrial invertebrates,insect - butterfly,Cupido minimus,Small Blue,-,Yes,-,NBN map,NT,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0000502045,2203
+Terrestrial invertebrates,insect - butterfly,Erebia epiphron,Small Mountain Ringlet,-,Yes,-,NBN map,NT,WCA 1981,Yes,-,-,-,-,-,-,NHMSYS0000519788,2250
+Terrestrial invertebrates,insect - butterfly,Erynnis tages subsp. tages,Dingy Skipper,Yes,-,-,NBN map,-,-,-,-,-,-,-,-,Yes,NBNSYS0000042368,2255
+Terrestrial invertebrates,insect - butterfly,Euphydryas aurinia form aurinia,Marsh Fritillary,Yes,-,-,NBN map,-,-,Yes,Yes,-,-,-,-,-,NHMSYS0000502585,300
+Terrestrial invertebrates,insect - butterfly,Hipparchia semele,Grayling,Yes,-,-,NBN map,VU,-,Yes,-,-,-,Yes,-,-,NHMSYS0000520428,2334
+Terrestrial invertebrates,insect - butterfly,Lasiommata megera,Wall,Yes,-,-,NBN map,NT,-,Yes,-,-,-,Yes,-,-,NHMSYS0000503020,2363
+Terrestrial invertebrates,insect - earwig (Dermaptera),Labia minor,Lesser Earwig,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001387382,
+Terrestrial invertebrates,insect - flea (Siphonaptera),Ceratophyllus (Emmareus) fionnus,Manx Shearwater Flea,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,Yes,-,NHMSYS0000545911,
+Terrestrial invertebrates,insect - hymenopteran,Ammophila sabulosa,Red Banded Sand Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875039,
+Terrestrial invertebrates,insect - hymenopteran,Ancistrocerus parietum,Wall Mason Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875050,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Andrena) helvola,a Mining Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875064,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Euandrena) ruficrus,a Mining Bee,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000875083,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Margandrena) marginata,a Mining Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875097,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Melandrena) cineraria,Grey Mining Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875099,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Melandrena) nitida,a Mining Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875103,
+Terrestrial invertebrates,insect - hymenopteran,Andrena (Poliandrena) tarsata,Tormentil Mining Bee,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000875133,2037
+Terrestrial invertebrates,insect - hymenopteran,Anoplius (Anoplius) concinnus,a Spider-hunting Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875298,
+Terrestrial invertebrates,insect - hymenopteran,Anthidium (Anthidium) manicatum,Wool-Carder Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875386,
+Terrestrial invertebrates,insect - hymenopteran,Anthophora (Clisodon) furcata,Fork Tailed Flower Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875394,
+Terrestrial invertebrates,insect - hymenopteran,Bombus (Pyrobombus) monticola,Mountain Bumble Bee,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000875507,
+Terrestrial invertebrates,insect - hymenopteran,Bombus (Subterraneobombus) distinguendus,Great Yellow Bumblebee,Yes,-,-,NBN map,-,-,Yes,-,-,-,-,Yes,-,NHMSYS0000875513,152
+Terrestrial invertebrates,insect - hymenopteran,Bombus (Thoracombus) muscorum,Moss Carder-bee,-,-,Yes,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000875519,2089
+Terrestrial invertebrates,insect - hymenopteran,Bombus (Thoracombus) ruderarius,Red-shanked Carder-bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875532,2090
+Terrestrial invertebrates,insect - hymenopteran,Ceropales maculata,a Spider-hunting Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875637,
+Terrestrial invertebrates,insect - hymenopteran,Chrysura hirsuta,Northern Osmia Ruby-tailed Wasp,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,Yes,-,NHMSYS0000875676,215
+Terrestrial invertebrates,insect - hymenopteran,Colletes (Colletes) daviesanus,a bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875711,
+Terrestrial invertebrates,insect - hymenopteran,Colletes (Colletes) floralis,Northern Colletes,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NHMSYS0000875712,235
+Terrestrial invertebrates,insect - hymenopteran,Colletes (Colletes) fodiens,a bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875713,
+Terrestrial invertebrates,insect - hymenopteran,Crabro peltarius,a solitary wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875734,
+Terrestrial invertebrates,insect - hymenopteran,Crossocerus (Blepharipus) megacephalus,a Digger wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875751,
+Terrestrial invertebrates,insect - hymenopteran,Crossocerus (Hoplocrabro) quadrimaculatus,4-Spotted Digger Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875772,
+Terrestrial invertebrates,insect - hymenopteran,Diodontus tristis,Melancholy Black Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875831,
+Terrestrial invertebrates,insect - hymenopteran,Dipogon (Deuteragenia) subintermedius,a Spider-hunting Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875835,
+Terrestrial invertebrates,insect - hymenopteran,Dipogon (Deuteragenia) variegatus,a Spider-hunting Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875836,
+Terrestrial invertebrates,insect - hymenopteran,Dryudella pinguis,a Hole nesting wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100002902,
+Terrestrial invertebrates,insect - hymenopteran,Ectemnius (Hypocrabro) continuus,a Digger wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875872,
+Terrestrial invertebrates,insect - hymenopteran,Ectemnius (Metacrabro) cephalotes,a Digger wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875875,
+Terrestrial invertebrates,insect - hymenopteran,Embolemus ruddii,an Aculeate,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875903,
+Terrestrial invertebrates,insect - hymenopteran,Epeolus variegatus,a cuckoo bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875912,
+Terrestrial invertebrates,insect - hymenopteran,Evagetes crassicornis,a Spider-hunting Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000009424,
+Terrestrial invertebrates,insect - hymenopteran,Formica exsecta,Narrow-headed Ant,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,-,-,-,-,NHMSYS0000875953,308
+Terrestrial invertebrates,insect - hymenopteran,Formica fusca,Negro Ant,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000875954,
+Terrestrial invertebrates,insect - hymenopteran,Formicoxenus nitidulus,Shining Guest Ant,-,-,Yes,NBN map,-,-,Yes,-,-,Yes,-,-,-,NHMSYS0000875971,313
+Terrestrial invertebrates,insect - hymenopteran,Harpactus tumidus,a Digger wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876038,
+Terrestrial invertebrates,insect - hymenopteran,Hedychridium ardens,a ruby-tailed wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876040,
+Terrestrial invertebrates,insect - hymenopteran,Hylaeus (Prosopis) brevicornis,Short Horned Yellow-Face Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876090,
+Terrestrial invertebrates,insect - hymenopteran,Lasioglossum (Dialictus) smeathmanellum,a mining bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876135,
+Terrestrial invertebrates,insect - hymenopteran,Lasioglossum (Evylaeus) fulvicorne,a mining bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876142,
+Terrestrial invertebrates,insect - hymenopteran,Lasioglossum (Evylaeus) villosulum,Shaggy Mining Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876157,
+Terrestrial invertebrates,insect - hymenopteran,Lindenius albilabris,a Digger wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876241,
+Terrestrial invertebrates,insect - hymenopteran,Mimumesa dahlbomi,a black solitary wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100004089,
+Terrestrial invertebrates,insect - hymenopteran,Mutilla europaea,Large Velvet Ant,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876354,
+Terrestrial invertebrates,insect - hymenopteran,Nomada fabriciana,Fabricius' Nomad Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876415,
+Terrestrial invertebrates,insect - hymenopteran,Nomada leucophthalma,a Nomad bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876436,
+Terrestrial invertebrates,insect - hymenopteran,Nomada obtusifrons,a Nomad bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876440,
+Terrestrial invertebrates,insect - hymenopteran,Nomada roberjeotiana,a Nomad bee,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0100004273,
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Chalcosmia) caerulescens,Blue Mason Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876490,
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Helicosmia) aurulenta,Gold-Fringed Mason Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876494,
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Melanosmia) inermis,a Mason Bee,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,Yes,-,NHMSYS0000876496,491
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Melanosmia) parietina,Western Mason Bee,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000876497,492
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Melanosmia) uncinata,a Mason Bee,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,-,-,Yes,-,NHMSYS0000876499,493
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Osmia) rufa,Red Mason Bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876504,
+Terrestrial invertebrates,insect - hymenopteran,Oxybelus uniglumis,Common Spiny Digger Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876526,
+Terrestrial invertebrates,insect - hymenopteran,Pompilus cinereus,Leaden Spider Wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000009413,
+Terrestrial invertebrates,insect - hymenopteran,Priocnemis (Priocnemis) schioedtei,a Spider-hunting wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876617,
+Terrestrial invertebrates,insect - hymenopteran,Pseudomalus auratus,a Ruby-tailed wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100004922,
+Terrestrial invertebrates,insect - hymenopteran,Sphecodes gibbus,a solitary bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876682,
+Terrestrial invertebrates,insect - hymenopteran,Stelis punctulatissima,a cuckoo bee,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876713,
+Terrestrial invertebrates,insect - hymenopteran,Symmorphus bifasciatus,a Potter wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100005641,
+Terrestrial invertebrates,insect - hymenopteran,Tachysphex pompiliformis,a Spider-hunting wasp,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000876735,
+Terrestrial invertebrates,insect - lacewing (Neuroptera),Hemerobius perelegans,a Lacewing,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000869709,
+Terrestrial invertebrates,insect - lacewing (Neuroptera),Megalomus hirtus,Bordered Brown Lacewing,Yes,-,-,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000869715,2409
+Terrestrial invertebrates,insect - moth,Acronicta psi,Grey Dagger,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006379,2003
+Terrestrial invertebrates,insect - moth,Acronicta rumicis,Knot Grass,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006384,2004
+Terrestrial invertebrates,insect - moth,Adscita statices,Forester,Yes,-,-,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000005663,2006
+Terrestrial invertebrates,insect - moth,Aethes rutilana,Juniper Conch,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000501016,
+Terrestrial invertebrates,insect - moth,Agrochola helvola,Flounced Chestnut,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006360,2011
+Terrestrial invertebrates,insect - moth,Agrochola litura,Brown-spot Pinion,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006361,2012
+Terrestrial invertebrates,insect - moth,Agrochola lychnidis,Beaded Chestnut,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000501173,2013
+Terrestrial invertebrates,insect - moth,Allophyes oxyacanthae,Green-brindled Crescent,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006338,2023
+Terrestrial invertebrates,insect - moth,Amphipoea oculea,Ear Moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006465,2030
+Terrestrial invertebrates,insect - moth,Amphipyra tragopoginis,Mouse Moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006395,2031
+Terrestrial invertebrates,insect - moth,Anania funebris,White-spotted Sable,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000501229,2032
+Terrestrial invertebrates,insect - moth,Anarta cordigera,Small Dark Yellow Underwing,Yes,-,-,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000006234,2034
+Terrestrial invertebrates,insect - moth,Apamea anceps,Large Nutmeg,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000501277,2045
+Terrestrial invertebrates,insect - moth,Apamea remissa,Dusky Brocade,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000501111,2046
+Terrestrial invertebrates,insect - moth,Apotomis infida,Rannoch Marble,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000501154,
+Terrestrial invertebrates,insect - moth,Archinemapogon yildizae,Large Scotch Clothes,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000501282,
+Terrestrial invertebrates,insect - moth,Arctia caja,Garden Tiger,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006143,2053
+Terrestrial invertebrates,insect - moth,Atethmia centrago,Centre-barred Sallow,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006364,2070
+Terrestrial invertebrates,insect - moth,Blepharita adusta,Dark Brocade,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000142992,2082
+Terrestrial invertebrates,insect - moth,Brachylomia viminalis,Minor Shoulder-knot,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006318,2094
+Terrestrial invertebrates,insect - moth,Callisto coffeella,Highland Slender,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000501594,
+Terrestrial invertebrates,insect - moth,Caradrina morpheus,Mottled Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006492,2128
+Terrestrial invertebrates,insect - moth,Celaena haworthii,Haworth's Minor,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006472,2138
+Terrestrial invertebrates,insect - moth,Celaena leucostigma,Crescent,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000517683,2139
+Terrestrial invertebrates,insect - moth,Chesias legatella,Streak,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NHMSYS0000501740,2163
+Terrestrial invertebrates,insect - moth,Chesias rufata,Broom-tip,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005954,2164
+Terrestrial invertebrates,insect - moth,Chiasmia clathrata,Latticed Heath,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0100002337,2165
+Terrestrial invertebrates,insect - moth,Cossus cossus,Goat Moth,Yes,-,-,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000005662,2196
+Terrestrial invertebrates,insect - moth,Cymatophorima diluta,Oak Lutestring,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000550500,2207
+Terrestrial invertebrates,insect - moth,Dasypolia templi,Brindled Ochre,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006322,2216
+Terrestrial invertebrates,insect - moth,Diarsia rubi,Small Square-spot,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006214,2219
+Terrestrial invertebrates,insect - moth,Diloba caeruleocephala,Figure of Eight,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000006106,2224
+Terrestrial invertebrates,insect - moth,Ecliptopera silaceata,Small Phoenix,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000502259,2236
+Terrestrial invertebrates,insect - moth,Endromis versicolora,Kentish Glory,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000005716,
+Terrestrial invertebrates,insect - moth,Ennomos erosaria,September Thorn,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000502380,2241
+Terrestrial invertebrates,insect - moth,Ennomos quercinaria,August Thorn,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006003,2243
+Terrestrial invertebrates,insect - moth,Entephria caesiata,Grey Mountain Carpet,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NHMSYS0000502383,2244
+Terrestrial invertebrates,insect - moth,Epione vespertaria,Dark Bordered Beauty,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0100003050,284
+Terrestrial invertebrates,insect - moth,Epirrhoe galiata,Galium Carpet,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000502465,2249
+Terrestrial invertebrates,insect - moth,Eugnorisma glareosa,Autumnal Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NHMSYS0000502566,2258
+Terrestrial invertebrates,insect - moth,Eulithis mellinata,Spinach,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000005837,2259
+Terrestrial invertebrates,insect - moth,Euxoa nigricans,Garden Dart,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000502656,2269
+Terrestrial invertebrates,insect - moth,Euxoa tritici,White-line Dart,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006167,1151
+Terrestrial invertebrates,insect - moth,Graphiphora augur,Double Dart,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006200,2297
+Terrestrial invertebrates,insect - moth,Hadena caesia,Grey,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000520318,
+Terrestrial invertebrates,insect - moth,Hemaris tityus,Narrow-bordered Bee Hawk-moth,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000006070,358
+Terrestrial invertebrates,insect - moth,Hemistola chrysoprasaria,Small Emerald,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000005746,2315
+Terrestrial invertebrates,insect - moth,Hepialus humuli,Ghost Moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005307,2316
+Terrestrial invertebrates,insect - moth,Hoplodrina blanda,Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000502877,2340
+Terrestrial invertebrates,insect - moth,Hydraecia micacea,Rosy Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006466,2342
+Terrestrial invertebrates,insect - moth,Lampronia capitella,Currant-shoot Borer,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000502996,2361
+Terrestrial invertebrates,insect - moth,Levipalpus hepatariella,Mountain Flat-body,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,MM0001Z1005LL6O1,
+Terrestrial invertebrates,insect - moth,Lycia hirtaria,Brindled Beauty,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006018,2398
+Terrestrial invertebrates,insect - moth,Macaria carbonaria,Netted Mountain Moth,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0100003855,574
+Terrestrial invertebrates,insect - moth,Macaria wauaria,V-moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0100003859,2401
+Terrestrial invertebrates,insect - moth,Malacosoma neustria,Lackey,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005703,2403
+Terrestrial invertebrates,insect - moth,Melanchra persicariae,Dot Moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006246,2413
+Terrestrial invertebrates,insect - moth,Melanchra pisi,Broom Moth,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0100003966,2414
+Terrestrial invertebrates,insect - moth,Mesoligia literosa,Rosy Minor,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006440,2425
+Terrestrial invertebrates,insect - moth,Mythimna comma,Shoulder-striped Wainscot,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006298,2445
+Terrestrial invertebrates,insect - moth,Nemapogon picarella,Pied Clothes,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,Yes,-,-,NHMSYS0000503339,2447
+Terrestrial invertebrates,insect - moth,Nematopogon magna,Scarce Long-horn,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0100004197,2448
+Terrestrial invertebrates,insect - moth,Noctua orbona,Lunar Yellow Underwing,Yes,-,-,NBN map,-,-,Yes,-,-,Yes,-,-,-,NBNSYS0000006194,475
+Terrestrial invertebrates,insect - moth,Orthonama vittata,Oblique Carpet,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000005792,2474
+Terrestrial invertebrates,insect - moth,Orthosia gracilis,Powdered Quaker,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000503516,2475
+Terrestrial invertebrates,insect - moth,Pelurga comitata,Dark Spinach,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005829,2491
+Terrestrial invertebrates,insect - moth,Periclepsis cinctana,Dover Twist,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000503681,
+Terrestrial invertebrates,insect - moth,Perizoma albulata subsp. albulata,Grass Rivulet,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NHMSYS0000503693,2492
+Terrestrial invertebrates,insect - moth,Protolampra sobrina,Cousin German,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NHMSYS0000503924,501
+Terrestrial invertebrates,insect - moth,Rheumaptera hastata,Argent and Sable,-,-,Yes,NBN map,-,-,Yes,-,-,Yes,-,-,-,NBNSYS0000005867,549
+Terrestrial invertebrates,insect - moth,Rhizedra lutosa,Large Wainscot,-,-,-,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000504048,1150
+Terrestrial invertebrates,insect - moth,Scopula marginepunctata,Mullein Wave,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005762,2595
+Terrestrial invertebrates,insect - moth,Scotopteryx chenopodiata,Shaded Broad-bar,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005807,2596
+Terrestrial invertebrates,insect - moth,Spilosoma lubricipeda,White Ermine,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006146,2619
+Terrestrial invertebrates,insect - moth,Spilosoma luteum,Buff Ermine,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006147,2620
+Terrestrial invertebrates,insect - moth,Stilbia anomala,Anomalous,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006500,2632
+Terrestrial invertebrates,insect - moth,Swammerdamia passerella,Scotch Ermel,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000504413,
+Terrestrial invertebrates,insect - moth,Synanthedon scoliaeformis,Welsh Clearwing,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000005691,
+Terrestrial invertebrates,insect - moth,Tholera cespitis,Hedge Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NHMSYS0000504506,2655
+Terrestrial invertebrates,insect - moth,Tholera decimalis,Feathered Gothic,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006271,2656
+Terrestrial invertebrates,insect - moth,Thumatha senex,Round-winged Muslin,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000504509,
+Terrestrial invertebrates,insect - moth,Timandra comae,Blood-vein,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0100005831,2659
+Terrestrial invertebrates,insect - moth,Trichiura crataegi,Pale Eggar,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000005701,2670
+Terrestrial invertebrates,insect - moth,Trichopteryx polycommata,Barred Tooth-striped,-,-,Yes,NBN map,-,-,Yes,-,-,Yes,-,-,-,NHMSYS0000504582,616
+Terrestrial invertebrates,insect - moth,Tyria jacobaeae,Cinnabar,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006155,2679
+Terrestrial invertebrates,insect - moth,Watsonalla binaria,Oak Hook-tip,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0100005987,2700
+Terrestrial invertebrates,insect - moth,Xanthia gilvago,Dusky-lemon Sallow,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000504653,2703
+Terrestrial invertebrates,insect - moth,Xanthia icteritia,Sallow,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NBNSYS0000006369,2704
+Terrestrial invertebrates,insect - moth,Xanthorhoe decoloraria,Red Carpet,-,-,Yes,NBN map,-,-,Yes,-,-,-,(Yes),-,-,NHMSYS0000520988,2705
+Terrestrial invertebrates,insect - moth,Xanthorhoe ferrugata,Dark-barred Twin-spot Carpet,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000005800,2706
+Terrestrial invertebrates,insect - moth,Xestia agathina,Heath Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006226,2707
+Terrestrial invertebrates,insect - moth,Xestia alpicola,Northern Dart,Yes,-,-,NBN map,-,-,Yes,-,-,Yes,-,-,-,NHMSYS0000523349,635
+Terrestrial invertebrates,insect - moth,Xestia castanea,Neglected Rustic,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000504669,2708
+Terrestrial invertebrates,insect - moth,Xylena exsoleta,Sword-grass,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000006335,638
+Terrestrial invertebrates,insect - moth,Zygaena exulans subsp. subochracea,Scotch Burnet,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,Yes,NBNSYS0000005667,
+Terrestrial invertebrates,insect - moth,Zygaena lonicerae subsp. jocelynae,Narrow-bordered Five-spot Burnet,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,Yes,NBNSYS0000005678,
+Terrestrial invertebrates,insect - moth,Zygaena loti subsp. scotica,Slender Scotch Burnet,Yes,-,-,NBN map,-,-,-,-,Yes,-,-,-,Yes,NHMSYS0000504733,640
+Terrestrial invertebrates,insect - moth,Zygaena purpuralis subsp. caledonensis,Transparent Burnet,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,Yes,NBNSYS0000005681,
+Terrestrial invertebrates,insect - moth,Zygaena viciae subsp. argyllensis,New Forest Burnet,Yes,-,-,NBN map,-,-,-,-,Yes,Yes,-,-,Yes,NBNSYS0000005191,641
+Terrestrial invertebrates,insect - orthopteran,Leptophyes punctatissima,Speckled Bush-cricket,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006825,
+Terrestrial invertebrates,insect - orthopteran,Metrioptera brachyptera,Bog Bush-cricket,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006821,
+Terrestrial invertebrates,insect - spider (Araneae),Agroeca cuprea,Golden Lantern-spider,Yes,-,-,NBN map,-,-,Yes,-,-,Yes,-,-,-,NBNSYS0000008703,2014
+Terrestrial invertebrates,insect - spider (Araneae),Centromerus levitarsis,a money spider,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000009170,
+Terrestrial invertebrates,insect - spider (Araneae),Clubiona subsultans,a spider,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000008676,
+Terrestrial invertebrates,insect - spider (Araneae),Dictyna major,a mesh-webbed spider,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000008615,
+Terrestrial invertebrates,insect - spider (Araneae),Dictyna pusilla,Small Mesh-weaver,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000008614,2223
+Terrestrial invertebrates,insect - spider (Araneae),Dipoena torva,a spider,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000008872,
+Terrestrial invertebrates,insect - spider (Araneae),Erigone welchi,Welch's Money-spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000009109,2252
+Terrestrial invertebrates,insect - spider (Araneae),Haplodrassus soerenseni,a spider,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000008648,
+Terrestrial invertebrates,insect - spider (Araneae),Lepthyphantes antroniensis,a money spider,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NBNSYS0000009225,
+Terrestrial invertebrates,insect - spider (Araneae),Mecopisthes peusi,Peus's Long-back Spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000009046,2407
+Terrestrial invertebrates,insect - spider (Araneae),Mecynargus paetulus,a money spider,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0100003883,
+Terrestrial invertebrates,insect - spider (Araneae),Monocephalus castaneipes,Broad Groove-head Spider,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000009070,2436
+Terrestrial invertebrates,insect - spider (Araneae),Notioscopus sarcinatus,Swamp Lookout Spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0000009080,2457
+Terrestrial invertebrates,insect - spider (Araneae),Philodromus margaritatus,Lichen Running-spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000008751,2499
+Terrestrial invertebrates,insect - spider (Araneae),Robertus scoticus,a spider,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,-,-,NBNSYS0000008911,
+Terrestrial invertebrates,insect - spider (Araneae),Saaristoa firma,Triangle Hammock-spider,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000009188,2574
+Terrestrial invertebrates,insect - spider (Araneae),Semljicola caliginosus,Cloud-living Spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0100005488,2599
+Terrestrial invertebrates,insect - spider (Araneae),Silometopus incurvatus,Bend-bearing Blunt-brow Spider,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,Yes,-,-,NBNSYS0000009045,2602
+Terrestrial invertebrates,insect - stonefly (Plecoptera),Brachyptera putata,Northern February Red,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000022413,160
+Terrestrial invertebrates,Insect - trichopteran,Hagenella clathrata,Window Winged Sedge,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000008428,2306
+Terrestrial invertebrates,insect - true bug (Hemiptera),Aquarius najas,River Skater,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000527503,
+Terrestrial invertebrates,insect - true bug (Hemiptera),Gerris (Gerris) gibbifer,Pond Skater,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020309254,
+Terrestrial invertebrates,insect - true bug (Hemiptera),Hebrus (Hebrusella) ruficeps,Sphagnum Bug,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020309294,
+Terrestrial invertebrates,insect - true bug (Hemiptera),Plea minutissima,a pygmy backswimmer,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000527574,
+Terrestrial invertebrates,insect - true fly (Diptera),Anasimyia transfuga,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007043,
+Terrestrial invertebrates,insect - true fly (Diptera),Beris morrisii,a Soldier Fly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007799,
+Terrestrial invertebrates,insect - true fly (Diptera),Blera fallax,Pine Hoverfly,Yes,Yes,-,NBN map,EN,-,Yes,-,-,Yes,-,-,-,NBNSYS0000007099,147
+Terrestrial invertebrates,insect - true fly (Diptera),Bolitophila bimaculata,a fungus gnat,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011608,
+Terrestrial invertebrates,insect - true fly (Diptera),Botanophila fonsecai,Fonseca's Seed Fly,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,Yes,-,NBNSYS0000030467,2091
+Terrestrial invertebrates,insect - true fly (Diptera),Brachyopa insensilis,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007013,
+Terrestrial invertebrates,insect - true fly (Diptera),Chamaesyrphus caledonicus,a Hoverfly,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NBNSYS0000007071,
+Terrestrial invertebrates,insect - true fly (Diptera),Cheilosia chrysocoma,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006978,
+Terrestrial invertebrates,insect - true fly (Diptera),Cheilosia latifrons,Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,-,-,-,-,NBNSYS0100002330,
+Terrestrial invertebrates,insect - true fly (Diptera),Cheilosia sahlbergi,a Hoverfly,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000006997,
+Terrestrial invertebrates,insect - true fly (Diptera),Cliorismia rustica,Southern Silver Stiletto-fly,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000189329,225
+Terrestrial invertebrates,insect - true fly (Diptera),Clusiodes geomyzinus,Strathspey Clusiid Fly,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0100002492,2180
+Terrestrial invertebrates,insect - true fly (Diptera),Diadocidia valida,a fungus gnat,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011620,
+Terrestrial invertebrates,insect - true fly (Diptera),Dicranomyia omissinervis,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0100002823,
+Terrestrial invertebrates,insect - true fly (Diptera),Dictenidia bimaculata,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100002842,
+Terrestrial invertebrates,insect - true fly (Diptera),Doros profuges,Phantom Hoverfly,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000146310,270
+Terrestrial invertebrates,insect - true fly (Diptera),Dysmachus trigonus,a Robber Fly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007896,
+Terrestrial invertebrates,insect - true fly (Diptera),Hammerschmidtia ferruginea,Aspen Hoverfly,Yes,Yes,-,NBN map,EN,-,Yes,-,-,-,-,-,-,NBNSYS0000007021,349
+Terrestrial invertebrates,insect - true fly (Diptera),Heringia pubescens,Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100003450,
+Terrestrial invertebrates,insect - true fly (Diptera),Hilara medeteriformis,a dance fly,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NBNSYS0000012492,
+Terrestrial invertebrates,insect - true fly (Diptera),Laphria flava,a Robber Fly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007908,
+Terrestrial invertebrates,insect - true fly (Diptera),Leptarthrus brevirostris,a Robber Fly,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000007920,
+Terrestrial invertebrates,insect - true fly (Diptera),Lipsothrix ecucullata,Scottish Yellow Splinter,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000008199,416
+Terrestrial invertebrates,insect - true fly (Diptera),Lipsothrix errans,Northern Yellow Splinter,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000008200,417
+Terrestrial invertebrates,insect - true fly (Diptera),Lipsothrix nervosa,Southern Yellow Splinter,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000008201,418
+Terrestrial invertebrates,insect - true fly (Diptera),Lonchaea ragnari,Viking Sword Fly,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0100003806,2390
+Terrestrial invertebrates,insect - true fly (Diptera),Medetera excellens,a dolichopodid fly,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NBNSYS0000012671,
+Terrestrial invertebrates,insect - true fly (Diptera),Melangyna barbifrons,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006923,
+Terrestrial invertebrates,insect - true fly (Diptera),Melangyna ericarum,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006925,
+Terrestrial invertebrates,insect - true fly (Diptera),Mycomya rosalba,a fungus gnat,-,-,Yes,NBN map,DD,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011701,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma aculeata,a cranefly,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007970,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma analis,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007971,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma cornicina,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007973,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma guestfalica,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007978,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma lunulicornis,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007979,
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma scurra,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007982,
+Terrestrial invertebrates,insect - true fly (Diptera),Nigrotipula nigra,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100004261,
+Terrestrial invertebrates,insect - true fly (Diptera),Oxycera pygmaea,a Soldier Fly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007815,
+Terrestrial invertebrates,insect - true fly (Diptera),Pamponerus germanicus,a Robber Fly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007905,
+Terrestrial invertebrates,insect - true fly (Diptera),Parasyrphus nigritarsis,a Hoverfly,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,-,-,NBNSYS0000006946,
+Terrestrial invertebrates,insect - true fly (Diptera),Phronia persimilis,a fungus gnat,-,-,Yes,NBN map,DD,-,-,-,Yes,Yes,-,-,-,NBNSYS0000012001,
+Terrestrial invertebrates,insect - true fly (Diptera),Phronia sylvatica,a fungus gnat,-,-,Yes,NBN map,DD,-,-,-,Yes,Yes,-,-,-,NBNSYS0100004586,
+Terrestrial invertebrates,insect - true fly (Diptera),Platycheirus amplus,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006870,
+Terrestrial invertebrates,insect - true fly (Diptera),Prionocera pubescens,a cranefly,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007960,
+Terrestrial invertebrates,insect - true fly (Diptera),Rhabdomastix japonica,River-shore Cranefly,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0020193668,2563
+Terrestrial invertebrates,insect - true fly (Diptera),Rhabdomastix laeta,a cranefly,-,-,Yes,NBN map,-,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000189452,
+Terrestrial invertebrates,insect - true fly (Diptera),Rhadiurgus variabilis,Northern Robber Fly,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000007907,
+Terrestrial invertebrates,insect - true fly (Diptera),Rhamphomyia hirtula,Mountain Dance-fly,Yes,Yes,-,NBN map,NT,-,Yes,-,Yes,-,Yes,-,-,NBNSYS0000012380,2564
+Terrestrial invertebrates,insect - true fly (Diptera),Rymosia speyae,a fungus gnat,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0100005352,
+Terrestrial invertebrates,insect - true fly (Diptera),Sphaerophoria loewi,a Hoverfly,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,-,-,NBNSYS0000006955,
+Terrestrial invertebrates,insect - true fly (Diptera),Sphegina sibirica,a Hoverfly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000033089,
+Terrestrial invertebrates,insect - true fly (Diptera),Spiriverpa lunulata,Stiletto-fly,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000189495,
+Terrestrial invertebrates,insect - true fly (Diptera),Stratiomys chamaeleon,a soldier fly,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007839,
+Terrestrial invertebrates,insect - true fly (Diptera),Strongylophthalmyia ustulata,a tanypezid fly,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NBNSYS0000028919,
+Terrestrial invertebrates,insect - true fly (Diptera),Tanyptera atrata,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100005703,
+Terrestrial invertebrates,insect - true fly (Diptera),Tanyptera nigricornis,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0100005704,
+Terrestrial invertebrates,insect - true fly (Diptera),Themira gracilis,a small dung fly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000012937,
+Terrestrial invertebrates,insect - true fly (Diptera),Thereva handlirschi,a Stiletto fly,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000007929,
+Terrestrial invertebrates,insect - true fly (Diptera),Thereva valida,a Stiletto fly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007934,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula bistilata,a cranefly,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000008018,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula cava,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000008020,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula hortorum,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000008014,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula invenusta,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000008046,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula laetabilis,a cranefly,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,-,-,NBNSYS0000008021,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula limbata,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000007993,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula luridorostris,a cranefly,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0100005837,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula marginella,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0100005838,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula melanoceros,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000008031,
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula pabulina,a cranefly,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000008002,
+Terrestrial invertebrates,insect - true fly (Diptera),Wiedemannia simplex,a dance fly,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NBNSYS0100006085,
+Terrestrial invertebrates,mollusc,Arion (Kobeltia) hortensis,Southern Garden Slug,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528111,
+Terrestrial invertebrates,mollusc,Azeca goodalli,Three-toothed Moss Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528119,
+Terrestrial invertebrates,mollusc,Candidula gigaxii,a mollusc,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528127,
+Terrestrial invertebrates,mollusc,Cecilioides (Cecilioides) acicula,Blind (or Agate) Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528133,
+Terrestrial invertebrates,mollusc,Cochlodina (Cochlodina) laminata,Plaited Door Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001701975,
+Terrestrial invertebrates,mollusc,Hydrobia ventrosa,Spire Snail,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000343147,
+Terrestrial invertebrates,mollusc,Monacha (Monacha) cantiana,Kentish Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001702106,
+Terrestrial invertebrates,mollusc,Omphiscola glabra,Mud Pond Snail,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,-,-,NHMSYS0020528236,2464
+Terrestrial invertebrates,mollusc,Oxychilus (Oxychilus) navarricus subsp. helveticus,Glossy Glass Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001702140,
+Terrestrial invertebrates,mollusc,Pisidium conventus,Alpine Peaclam,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000336865,
+Terrestrial invertebrates,mollusc,Succinella oblonga,Small Amber Snail,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0020528289,
+Terrestrial invertebrates,mollusc,Truncatellina cylindrica,Cylindrical Whorl Snail,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0020528301,2675
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) alpestris,Mountain Whorl Snail,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528315,
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) genesii,Round-mouthed Whorl Snail,Yes,Yes,-,NBN map,NT,ELD,Yes,Yes,Yes,Yes,-,-,-,NHMSYS0001702271,626
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) geyeri,Geyer's Whorl Snail,Yes,Yes,-,NBN map,EN,ELD,Yes,Yes,-,-,-,-,-,NHMSYS0001702272,627
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) modesta,Cross Whorl Snail,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NHMSYS0001702274,628
+Terrestrial invertebrates,mollusc,Vertigo (Vertilla) angustior,Narrow-mouthed Whorl Snail,Yes,Yes,-,NBN map,NT,ELD,Yes,Yes,Yes,Yes,-,-,-,NHMSYS0001702280,2691
+Aquatic invertebrates,annelid,Hirudo medicinalis,Medicinal Leech,Yes,Yes,-,NBN map,NT,WCA 1981 3,Yes,Yes,-,Yes,Yes,-,-,NBNSYS0000022372,
+Aquatic invertebrates,crustacean,Austropotamobius pallipes,Freshwater White-clawed Crayfish,Yes,Yes,-,NBN map,EN,WCA 1981 3,Yes,Yes,Yes,Yes,-,-,-,NBNSYS0000033009,124
+Aquatic invertebrates,crustacean,Triops cancriformis,Tadpole Shrimp,Yes,Yes,-,NBN map,EN,WCA 1981,Yes,-,Yes,Yes,-,-,-,NBNSYS0000032970,617
+Aquatic invertebrates,insect - beetle (Coleoptera),Agabus (Agabus) uliginosus,a water beetle,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NHMSYS0001716535,
+Aquatic invertebrates,insect - beetle (Coleoptera),Augyles maritimus,a water beetle,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NHMSYS0001717097,
+Aquatic invertebrates,insect - beetle (Coleoptera),Bagous (Abagous) lutulentus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0020151444,
+Aquatic invertebrates,insect - beetle (Coleoptera),Bagous (Bagous) collignensis,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0020151451,
+Aquatic invertebrates,insect - beetle (Coleoptera),Berosus (Berosus) luridus,a water beetle,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NHMSYS0001717238,
+Aquatic invertebrates,insect - beetle (Coleoptera),Bidessus minutissimus,Minutest Diving Beetle,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NBNSYS0000007523,145
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) alpinus,a water beetle,-,-,Yes,NBN map,DD,-,-,-,Yes,-,-,-,-,NHMSYS0001717577,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) convexiusculus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717579,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) depressus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001717580,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) melanocephalus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717620,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) nigriceps,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717621,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) quisquilius,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717624,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cercyon (Cercyon) terminatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717626,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cryptopleurum minutum,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717763,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cyphon kongsbergensis,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000024175,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cyphon ochraceus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000024177,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cyphon pubescens,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001596571,
+Aquatic invertebrates,insect - beetle (Coleoptera),Cyphon punctipennis,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001717811,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia aquatica,Zircon Reed Beetle,Yes,-,-,NBN map,-,-,Yes,-,-,Yes,-,-,-,NBNSYS0000011085,268
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia cinerea,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011087,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia crassipes,Water-Lily Reed Beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020152031,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia impressa,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000011091,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia marginata,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000011092,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia obscura,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011093,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia sparganii,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000011096,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia thalassina,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000011097,
+Aquatic invertebrates,insect - beetle (Coleoptera),Donacia vulgaris,a Reed beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000011099,
+Aquatic invertebrates,insect - beetle (Coleoptera),Dryops (Dryops) similaris,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001717988,
+Aquatic invertebrates,insect - beetle (Coleoptera),Dryops (Yrdops) nitidulus,a water beetle,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NHMSYS0001717991,
+Aquatic invertebrates,insect - beetle (Coleoptera),Elodes minuta,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000024171,
+Aquatic invertebrates,insect - beetle (Coleoptera),Elodes pseudominuta,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718058,
+Aquatic invertebrates,insect - beetle (Coleoptera),Enochrus quadripunctatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718084,
+Aquatic invertebrates,insect - beetle (Coleoptera),Enochrus testaceus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718086,
+Aquatic invertebrates,insect - beetle (Coleoptera),Gyrinus distinctus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718268,
+Aquatic invertebrates,insect - beetle (Coleoptera),Gyrinus paykulli,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007636,
+Aquatic invertebrates,insect - beetle (Coleoptera),Gyrinus suffriani,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007644,
+Aquatic invertebrates,insect - beetle (Coleoptera),Haliplus (Haliplinus) apicalis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718305,
+Aquatic invertebrates,insect - beetle (Coleoptera),Helochares punctatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007722,
+Aquatic invertebrates,insect - beetle (Coleoptera),Helophorus (Cyphelophorus) tuberculatus,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718393,
+Aquatic invertebrates,insect - beetle (Coleoptera),Helophorus (Empleurus) porculus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718396,
+Aquatic invertebrates,insect - beetle (Coleoptera),Helophorus (Helophorus) griseus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718403,
+Aquatic invertebrates,insect - beetle (Coleoptera),Helophorus (Trichohelophorus) alternans,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718414,
+Aquatic invertebrates,insect - beetle (Coleoptera),Heterocerus flexuosus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000024203,
+Aquatic invertebrates,insect - beetle (Coleoptera),Heterocerus fossor,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000024204,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydraena pulchella,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000007763,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydraena pygmaea,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718485,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydrochus angustatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000007649,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydrochus brevis,a water beetle,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000007650,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydrochus elongatus,a water beetle,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000007652,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus elongatulus,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000007537,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus glabriusculus,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718517,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus longulus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718521,
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus rufifrons,Oxbow Diving Beetle,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0001718535,381
+Aquatic invertebrates,insect - beetle (Coleoptera),Hygrotus (Hygrotus) versicolor,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718568,
+Aquatic invertebrates,insect - beetle (Coleoptera),Ilybius wasastjernae,a water beetle,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,-,-,NHMSYS0001718613,
+Aquatic invertebrates,insect - beetle (Coleoptera),Laccobius atratus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0001718650,
+Aquatic invertebrates,insect - beetle (Coleoptera),Liopterus haemorrhoidalis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001718857,
+Aquatic invertebrates,insect - beetle (Coleoptera),Megasternum concinnum,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001718953,
+Aquatic invertebrates,insect - beetle (Coleoptera),Ochthebius (Asiobates) auriculatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001719197,
+Aquatic invertebrates,insect - beetle (Coleoptera),Ochthebius (Hymenodes) punctatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719208,
+Aquatic invertebrates,insect - beetle (Coleoptera),Ochthebius (Ochthebius) lenensis,a water beetle,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NHMSYS0001719210,
+Aquatic invertebrates,insect - beetle (Coleoptera),Ochthebius (Ochthebius) viridis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719213,
+Aquatic invertebrates,insect - beetle (Coleoptera),Oreodytes alpinus,a water beetle,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000007577,
+Aquatic invertebrates,insect - beetle (Coleoptera),Pelenomus canaliculatus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020152998,
+Aquatic invertebrates,insect - beetle (Coleoptera),Plateumaris rustica,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001596573,
+Aquatic invertebrates,insect - beetle (Coleoptera),Poophagus sisymbrii,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020153183,
+Aquatic invertebrates,insect - beetle (Coleoptera),Prionocyphon serricornis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719683,
+Aquatic invertebrates,insect - beetle (Coleoptera),Rhantus (Rhantus) frontalis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719997,
+Aquatic invertebrates,insect - beetle (Coleoptera),Rhantus (Rhantus) suturalis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001719998,
+Aquatic invertebrates,insect - beetle (Coleoptera),Scirtes hemisphaericus,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000024186,
+Aquatic invertebrates,insect - beetle (Coleoptera),Sphaeridium bipustulatum,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001720118,
+Aquatic invertebrates,insect - beetle (Coleoptera),Sphaeridium lunatum,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0001720119,
+Aquatic invertebrates,insect - beetle (Coleoptera),Sphaeridium scarabaeoides,a water beetle,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000007678,
+Aquatic invertebrates,insect - beetle (Coleoptera),Thryogenes nereis,a water beetle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000025329,
+Aquatic invertebrates,insect - dragonfly (Odonata),Coenagrion hastulatum,Northern Damselfly,Yes,Yes,-,NBN map,EN,-,-,-,Yes,-,-,-,-,NBNSYS0000005607,
+Aquatic invertebrates,Insect - ephemeroptera,Nigrobaetis niger,Iron Blue Mayfly,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0100004260,2453
+Aquatic invertebrates,mollusc,Anodonta (Anodonta) cygnea,Swan Mussel,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0001701888,
+Aquatic invertebrates,mollusc,Margaritifera (Margaritifera) margaritifera,Freshwater Pearl Mussel,Yes,Yes,-,NBN map,EN,WCA 1981 3,Yes,Yes,-,-,-,-,-,NHMSYS0001702090,437
+Aquatic invertebrates,mollusc,Pisidium henslowanum,Henslow's Pea Mussel,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000006802,
+Aquatic invertebrates,mollusc,Theodoxus (Theodoxus) fluviatilis,River nerite,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0020528295,
+Vascular plants,flowering plant,Ajuga pyramidalis,Pyramidal Bugle,-,-,Yes,NBN map,VU,-,Yes,-,-,-,-,-,-,NBNSYS0000004271,2017
+Vascular plants,flowering plant,Alchemilla glaucescens,Lady's Mantle,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003372,
+Vascular plants,flowering plant,Allium oleraceum,Field Garlic,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002197,
+Vascular plants,flowering plant,Alopecurus myosuroides,Black-grass,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000455779,
+Vascular plants,flowering plant,Anagallis arvensis,Scarlet Pimpernel,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003943,
+Vascular plants,flowering plant,Apium graveolens,Wild Celery,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003663,
+Vascular plants,flowering plant,Arabis alpina,Alpine Rock-cress,Yes,Yes,-,NBN map,EN,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000002887,
+Vascular plants,flowering plant,Arenaria norvegica,Arctic Sandwort,Yes,Yes,-,NBN map,-,WCA 1981,-,-,Yes,-,-,-,-,NBNSYS0000034114,2055
+Vascular plants,flowering plant,Artemisia norvegica,Norwegian Mugwort,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000456106,112
+Vascular plants,flowering plant,Astragalus alpinus,Alpine Milk-vetch,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000003268,2068
+Vascular plants,flowering plant,Astragalus danicus,Purple Milk-vetch,-,-,Yes,NBN map,EN,-,Yes,-,-,-,-,-,-,NBNSYS0000003267,2069
+Vascular plants,flowering plant,Bartsia alpina,Alpine Bartsia,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000004168,
+Vascular plants,flowering plant,Blysmus compressus,Flat-sedge,-,-,Yes,NBN map,VU,-,Yes,-,-,-,-,-,-,NHMSYS0000456532,2083
+Vascular plants,flowering plant,Brassica oleracea,Wild Cabbage,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000002800,
+Vascular plants,flowering plant,Bromus secalinus,Rye Brome,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002589,
+Vascular plants,flowering plant,Calamagrostis purpurea,Scandinavian Small-reed,-,-,Yes,NBN map,DD,-,-,-,Yes,Yes,-,-,-,NHMSYS0000456752,
+Vascular plants,flowering plant,Calamagrostis scotica,Scottish Small-reed,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,Yes,-,NBNSYS0000002633,178
+Vascular plants,flowering plant,Calamagrostis stricta,Narrow Small-reed,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000002632,2109
+Vascular plants,flowering plant,Callitriche obtusangula,Blunt-fruited Water-starwort,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003618,
+Vascular plants,flowering plant,Callitriche palustris,Narrow-fruited Water-starwort,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000004690,
+Vascular plants,flowering plant,Campanula glomerata,Clustered Bellflower,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004287,
+Vascular plants,flowering plant,Campanula rapunculus,Rampion Bellflower,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,Yes,-,-,NBNSYS0000004290,2122
+Vascular plants,flowering plant,Cardamine impatiens,Narrow-leaved Bitter-cress,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000002874,
+Vascular plants,flowering plant,Carex appropinquata,Fibrous Tussock-sedge,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NHMSYS0000456829,
+Vascular plants,flowering plant,Carex atrofusca,Scorched Alpine-sedge,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002455,
+Vascular plants,flowering plant,Carex buxbaumii,Club Sedge,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002452,
+Vascular plants,flowering plant,Carex chordorrhiza,String Sedge,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000456838,
+Vascular plants,flowering plant,Carex divulsa,Grey Sedge,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000014681,
+Vascular plants,flowering plant,Carex elata,Tufted-sedge,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000002456,
+Vascular plants,flowering plant,Carex elongata,Elongated Sedge,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000002481,
+Vascular plants,flowering plant,Carex lachenalii,Hare's-foot Sedge,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NHMSYS0000456865,
+Vascular plants,flowering plant,Carex maritima,Curved Sedge,Yes,-,-,NBN map,EN,-,-,-,-,-,Yes,-,-,NBNSYS0000002474,2134
+Vascular plants,flowering plant,Carex microglochin,Bristle Sedge,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002489,
+Vascular plants,flowering plant,Carex norvegica,Close-headed Alpine-sedge,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000456876,
+Vascular plants,flowering plant,Carex punctata,Dotted Sedge,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000002414,
+Vascular plants,flowering plant,Carex rariflora,Mountain Bog-sedge,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000456890,
+Vascular plants,flowering plant,Carex recta,Estuarine Sedge,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002459,
+Vascular plants,flowering plant,Carum carvi,Caraway,Yes,-,-,NBN map,EN,-,-,-,-,-,Yes,-,-,NBNSYS0000003679,2135
+Vascular plants,flowering plant,Centaurea cyanus,Cornflower,Yes,-,-,NBN map,-,-,Yes,-,-,Yes,-,-,-,NBNSYS0000004503,198
+Vascular plants,flowering plant,Centaurea scabiosa,Greater Knapweed,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004501,
+Vascular plants,flowering plant,Centaurium pulchellum,Lesser Centaury,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003958,
+Vascular plants,flowering plant,Cephalanthera longifolia,Narrow-leaved Helleborine,-,-,Yes,NBN map,VU,-,Yes,-,-,-,-,-,-,NBNSYS0000002286,2148
+Vascular plants,flowering plant,Cerastium arcticum,Arctic Mouse-ear,-,-,Yes,NBN map,NT,-,Yes,-,-,-,-,-,-,NBNSYS0000003020,2154
+Vascular plants,flowering plant,Cerastium fontanum subsp. scoticum,Scottish Mouse-ear,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,Yes,Yes,NHMSYS0000457068,2155
+Vascular plants,flowering plant,Cerastium nigrescens,Shetland Mouse-ear,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,-,Yes,-,NHMSYS0000457073,200
+Vascular plants,flowering plant,Chelidonium majus,Greater Celandine,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000002775,
+Vascular plants,flowering plant,Chenopodium bonus-henricus,Good-King-Henry,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000003088,
+Vascular plants,flowering plant,Cicerbita alpina,Alpine Blue-sow-thistle,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000004546,2174
+Vascular plants,flowering plant,Cichorium intybus,Chicory,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004514,
+Vascular plants,flowering plant,Clinopodium acinos,Basil Thyme,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000004216,2177
+Vascular plants,flowering plant,Cochlearia micacea,Mountain Scurvygrass,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000457396,229
+Vascular plants,flowering plant,Cochlearia officinalis subsp. scotica,Scottish Scurvygrass,Yes,-,-,NBN map,-,-,Yes,-,-,-,Yes,-,-,NHMSYS0000457402,230
+Vascular plants,flowering plant,Coeloglossum viride,Frog Orchid,-,-,Yes,NBN map,VU,-,Yes,-,-,-,-,-,-,NHMSYS0000457408,2213
+Vascular plants,flowering plant,Coronopus squamatus,Swine-cress,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000457521,
+Vascular plants,flowering plant,Crassula aquatica,Pigmyweed,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NHMSYS0000457654,
+Vascular plants,flowering plant,Crepis mollis,Northern Hawk's-beard,Yes,Yes,-,NBN map,EN,-,-,-,Yes,Yes,-,-,-,NBNSYS0000004574,2198
+Vascular plants,flowering plant,Crithmum maritimum,Rock Samphire,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003687,
+Vascular plants,flowering plant,Dactylorhiza ebudensis,Hebridean Marsh-orchid,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,Yes,-,NHMSYS0020110554,
+Vascular plants,flowering plant,Dactylorhiza purpurella subsp. cambrensis,Welsh Marsh-orchid,Yes,-,-,NBN map,-,-,Yes,-,Yes,Yes,Yes,-,-,NHMSYS0020193660,2212
+Vascular plants,flowering plant,Diapensia lapponica,Diapensia,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000004597,
+Vascular plants,flowering plant,Draba incana,Hoary Whitlowgrass,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000002865,
+Vascular plants,flowering plant,Eleocharis mamillata subsp. austriaca,Northern Spike-rush,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0020110556,
+Vascular plants,flowering plant,Eleocharis parvula,Dwarf Spike-rush,-,Yes,-,NBN map,-,WCA 1981,-,-,Yes,Yes,-,-,-,NHMSYS0100001375,
+Vascular plants,flowering plant,Epipactis leptochila,Narrow-lipped Helleborine,-,-,Yes,NBN map,DD,-,-,-,-,Yes,-,-,-,NHMSYS0000458447,
+Vascular plants,flowering plant,Epipactis palustris,Marsh Helleborine,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000458452,
+Vascular plants,flowering plant,Erigeron borealis,Alpine Fleabane,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,-,-,-,-,NBNSYS0000004437,2251
+Vascular plants,flowering plant,Eriocaulon aquaticum,Pipewort,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000002154,
+Vascular plants,flowering plant,Erodium lebelii,Sticky Stork's-bill,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000458571,
+Vascular plants,flowering plant,Erodium maritimum,Sea Stork's-bill,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000458573,
+Vascular plants,flowering plant,Erodium moschatum,Musk Stork's-bill,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000458574,
+Vascular plants,flowering plant,Eryngium maritimum,Sea-holly,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003636,
+Vascular plants,flowering plant,Euphorbia helioscopia,Sun Spurge,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003732,
+Vascular plants,flowering plant,Euphrasia anglica,English Sticky Eyebright,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,-,-,NBNSYS0000004162,2260
+Vascular plants,flowering plant,Euphrasia campbelliae,an Eyebright,Yes,Yes,-,NBN map,DD,-,Yes,-,Yes,Yes,Yes,Yes,-,NBNSYS0000004147,295
+Vascular plants,flowering plant,Euphrasia heslop-harrisonii,an Eyebright,-,-,Yes,NBN map,-,-,Yes,-,Yes,-,-,Yes,-,NBNSYS0000004156,296
+Vascular plants,flowering plant,Euphrasia marshallii,an Eyebright,Yes,Yes,-,NBN map,EN,-,-,-,Yes,-,Yes,Yes,-,NBNSYS0000004149,2261
+Vascular plants,flowering plant,Euphrasia ostenfeldii,an Eyebright,Yes,Yes,-,NBN map,DD,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0000004152,2262
+Vascular plants,flowering plant,Euphrasia rostkoviana subsp. montana,an Eyebright,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,Yes,-,-,-,NHMSYS0000458675,2264
+Vascular plants,flowering plant,Euphrasia rotundifolia,an Eyebright,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,-,Yes,-,NBNSYS0000004148,298
+Vascular plants,flowering plant,Fallopia convolvulus,Black-bindweed,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000458715,
+Vascular plants,flowering plant,Filago vulgaris,Common Cudweed,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000004403,
+Vascular plants,flowering plant,Filipendula vulgaris,Dropwort,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003315,
+Vascular plants,flowering plant,Fumaria capreolata,White Ramping-fumitory,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000002783,
+Vascular plants,flowering plant,Fumaria purpurea,Purple Ramping-fumitory,-,-,Yes,NBN map,-,-,Yes,-,-,-,Yes,-,-,NBNSYS0000002784,316
+Vascular plants,flowering plant,Galeopsis speciosa,Large-flowered Hemp-nettle,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NHMSYS0000458954,
+Vascular plants,flowering plant,Gentiana nivalis,Alpine Gentian,-,Yes,-,NBN map,NT,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003968,
+Vascular plants,flowering plant,Gentianella campestris,Field Gentian,-,-,Yes,NBN map,VU,-,Yes,-,-,-,-,-,-,NHMSYS0000459024,2288
+Vascular plants,flowering plant,Gentianella uliginosa,Dune Gentian,Yes,Yes,-,NBN map,VU,WCA 1981,Yes,-,Yes,Yes,-,-,-,NHMSYS0000459028,324
+Vascular plants,flowering plant,Geranium columbinum,Long-stalked Crane's-bill,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003156,
+Vascular plants,flowering plant,Gnaphalium sylvaticum,Heath Cudweed,Yes,-,-,NBN map,EN,-,-,-,-,-,Yes,-,-,NBNSYS0000004408,
+Vascular plants,flowering plant,Hieracium attenuatifolium,Laxo Burn Hawkweed,Yes,Yes,-,NBN map,CR,WCA 1981,-,-,-,Yes,-,Yes,-,NHMSYS0000459343,
+Vascular plants,flowering plant,Hieracium backhousei,Backhouse's Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459348,2320
+Vascular plants,flowering plant,Hieracium calvum,Bald-leaved Hawkweed,Yes,Yes,-,NBN map,CR,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459367,2321
+Vascular plants,flowering plant,Hieracium graniticola,Granite Hawkweed,Yes,Yes,-,NBN map,CR,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459450,2322
+Vascular plants,flowering plant,Hieracium grovesii,Grove's Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,-,-,Yes,-,NHMSYS0000840667,2323
+Vascular plants,flowering plant,Hieracium insigne,Noble Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459463,2324
+Vascular plants,flowering plant,Hieracium kennethii,Kenneth's Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459471,2325
+Vascular plants,flowering plant,Hieracium larigense,Lairig Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459479,2326
+Vascular plants,flowering plant,Hieracium leptodon,Narrow-toothed Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459483,2327
+Vascular plants,flowering plant,Hieracium macrocarpum,Large-fruited Hawkweed,Yes,Yes,-,NBN map,VU,-,-,-,-,-,-,Yes,-,NHMSYS0000840726,2328
+Vascular plants,flowering plant,Hieracium milesii,Miles's Hawkweed,-,-,Yes,NBN map,NT,-,-,-,-,-,-,Yes,-,NHMSYS0000459502,
+Vascular plants,flowering plant,Hieracium northroense,North Roe Hawkweed,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,-,Yes,-,Yes,-,NHMSYS0000840637,
+Vascular plants,flowering plant,Hieracium notabile,Remarkable Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459521,2329
+Vascular plants,flowering plant,Hieracium optimum,Splendid Hawkweed,Yes,Yes,-,NBN map,CR,-,-,-,-,Yes,-,Yes,-,NHMSYS0000459526,2330
+Vascular plants,flowering plant,Hieracium perscitum,Neat Hawkweed,-,-,Yes,NBN map,NT,-,-,-,-,-,-,Yes,-,NHMSYS0000459541,
+Vascular plants,flowering plant,Hieracium probum,Excellent Hawkweed,-,-,Yes,NBN map,NT,-,-,-,-,-,-,Yes,-,NHMSYS0000459562,
+Vascular plants,flowering plant,Hieracium pseudocurvatum,Cairngorm Hawkweed,Yes,Yes,-,NBN map,CR,-,-,-,-,Yes,-,Yes,-,NHMSYS0000840725,2331
+Vascular plants,flowering plant,Hieracium pseudopetiolatum,Narrow-leaved Hawkweed,Yes,Yes,-,NBN map,EN,-,-,-,-,-,-,Yes,-,NHMSYS0000840882,2332
+Vascular plants,flowering plant,Hieracium sect. Alpestria,Hawkweed,Yes,Yes,-,NBN map,-,-,Yes,-,-,-,-,-,-,NHMSYS0000459607,364
+Vascular plants,flowering plant,Hieracium zetlandicum,Shetland Hawkweed,-,Yes,-,NBN map,DD,WCA 1981,-,-,-,Yes,-,Yes,-,NHMSYS0000840645,
+Vascular plants,flowering plant,Hierochloe odorata,Holy-grass,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000459706,
+Vascular plants,flowering plant,Homogyne alpina,Purple Colt's-foot,Yes,Yes,-,NBN map,EN,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000004391,
+Vascular plants,flowering plant,Hordelymus europaeus,Wood Barley,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000459739,
+Vascular plants,flowering plant,Hydrilla verticillata,Hydrilla,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0000459804,
+Vascular plants,flowering plant,Hyoscyamus niger,Henbane,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000004035,
+Vascular plants,flowering plant,Hypochaeris glabra,Smooth Cat's-ear,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000004519,
+Vascular plants,flowering plant,Inula conyzae,Ploughman's-spikenard,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004397,
+Vascular plants,flowering plant,Inula crithmoides,Golden-samphire,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004398,
+Vascular plants,flowering plant,Juncus compressus,Round-fruited Rush,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000002213,
+Vascular plants,flowering plant,Juniperus communis,Juniper,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000004634,394
+Vascular plants,flowering plant,Kobresia simpliciuscula,False Sedge,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000460031,
+Vascular plants,flowering plant,Koenigia islandica,Iceland-purslane,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000003770,
+Vascular plants,flowering plant,Lathyrus japonicus,Sea Pea,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003307,
+Vascular plants,flowering plant,Lathyrus palustris,Marsh Pea,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000003306,
+Vascular plants,flowering plant,Lathyrus sylvestris,Narrow-leaved Everlasting-pea,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003303,
+Vascular plants,flowering plant,Legousia hybrida,Venus's-looking-glass,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004293,
+Vascular plants,flowering plant,Lepidium campestre,Field Pepperwort,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000460248,
+Vascular plants,flowering plant,Linnaea borealis,Twinflower,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000004330,413
+Vascular plants,flowering plant,Linum perenne,Perennial Flax,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003144,
+Vascular plants,flowering plant,Lithospermum officinale,Common Gromwell,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000004016,
+Vascular plants,flowering plant,Lotus tenuis,Narrow-leaved Bird's-foot-trefoil,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000460472,
+Vascular plants,flowering plant,Luzula arcuata,Curved Wood-rush,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NBNSYS0000002245,2396
+Vascular plants,flowering plant,Lychnis alpina,Alpine Catchfly,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003001,
+Vascular plants,flowering plant,Lythrum hyssopifolia,Grass-poly,Yes,Yes,-,NBN map,EN,WCA 1981,-,-,Yes,Yes,Yes,-,-,NBNSYS0000003525,2400
+Vascular plants,flowering plant,Melampyrum sylvaticum,Small Cow-wheat,Yes,Yes,-,NBN map,EN,-,Yes,-,-,-,Yes,-,-,NBNSYS0000004139,442
+Vascular plants,flowering plant,Mentha arvensis,Corn Mint,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004195,
+Vascular plants,flowering plant,Minuartia rubella,Mountain Sandwort,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000003053,2432
+Vascular plants,flowering plant,Minuartia sedoides,Cyphel,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000003056,2433
+Vascular plants,flowering plant,Moneses uniflora,One-flowered Wintergreen,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NHMSYS0000460757,2435
+Vascular plants,flowering plant,Monotropa hypopitys,Yellow Bird's-nest,Yes,Yes,-,NBN map,EN,-,-,-,-,Yes,-,-,-,NBNSYS0000003921,2437
+Vascular plants,flowering plant,Myosotis alpestris,Alpine Forget-me-not,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NHMSYS0000460810,
+Vascular plants,flowering plant,Najas flexilis,Slender Naiad,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,-,-,-,-,-,NHMSYS0000460842,469
+Vascular plants,flowering plant,Oenanthe fistulosa,Tubular Water-dropwort,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000003689,2463
+Vascular plants,flowering plant,Ononis reclinata,Small Restharrow,-,Yes,-,NBN map,-,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003218,
+Vascular plants,flowering plant,Ononis spinosa,Spiny Restharrow,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000003217,
+Vascular plants,flowering plant,Orchis morio,Green-winged Orchid,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000002324,
+Vascular plants,flowering plant,Orobanche hederae,Ivy Broomrape,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004180,
+Vascular plants,flowering plant,Orobanche rapum-genistae,Greater Broomrape,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000004173,
+Vascular plants,flowering plant,Oxytropis campestris,Yellow Oxytropis,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000003273,
+Vascular plants,flowering plant,Oxytropis halleri,Purple Oxytropis,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NHMSYS0000461437,
+Vascular plants,flowering plant,Papaver argemone,Prickly Poppy,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000002768,
+Vascular plants,flowering plant,Papaver hybridum,Rough Poppy,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002767,
+Vascular plants,flowering plant,Parentucellia viscosa,Yellow Bartsia,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004167,
+Vascular plants,flowering plant,Phyllodoce caerulea,Blue Heath,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003893,
+Vascular plants,flowering plant,Picris hieracioides,Hawkweed Oxtongue,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004526,
+Vascular plants,flowering plant,Pilosella flagellaris,Shetland Mouse-ear-hawkweed,Yes,-,-,NBN map,-,-,-,-,Yes,Yes,-,-,-,NHMSYS0000461276,2513
+Vascular plants,flowering plant,Plantago media,Hoary Plantain,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004274,
+Vascular plants,flowering plant,Platanthera bifolia,Lesser Butterfly-orchid,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000002313,2515
+Vascular plants,flowering plant,Platanthera chlorantha,Greater Butterfly-orchid,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NHMSYS0000461774,
+Vascular plants,flowering plant,Poa flexuosa,Wavy Meadow-grass,Yes,Yes,-,NBN map,VU,-,-,-,Yes,-,-,-,-,NHMSYS0000461804,2518
+Vascular plants,flowering plant,Poa glauca,Glaucous Meadow-grass,Yes,-,-,NBN map,VU,-,Yes,-,-,-,Yes,-,-,NBNSYS0000002551,2519
+Vascular plants,flowering plant,Polygonatum verticillatum,Whorled Solomon's-seal,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,-,-,-,-,NBNSYS0000002162,2525
+Vascular plants,flowering plant,Polygonum rurivagum,Cornfield Knotgrass,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000461878,
+Vascular plants,flowering plant,Populus nigra,Black-poplar,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000345555,
+Vascular plants,flowering plant,Potamogeton compressus,Grass-wrack Pondweed,Yes,Yes,-,NBN map,EN,-,Yes,-,-,Yes,Yes,-,-,NBNSYS0000002142,529
+Vascular plants,flowering plant,Potamogeton epihydrus,American Pondweed,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002135,
+Vascular plants,flowering plant,Potamogeton rutilus,Shetland Pondweed,Yes,-,-,NBN map,-,-,Yes,-,Yes,-,-,-,-,NBNSYS0000002137,530
+Vascular plants,flowering plant,Potamogeton trichoides,Hairlike Pondweed,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000462003,
+Vascular plants,flowering plant,Potentilla argentea,Hoary Cinquefoil,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000003342,
+Vascular plants,flowering plant,Potentilla rupestris,Rock Cinquefoil,Yes,Yes,-,NBN map,EN,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003340,2533
+Vascular plants,flowering plant,Primula scotica,Scottish Primrose,-,-,Yes,NBN map,-,-,-,-,-,-,-,Yes,-,NBNSYS0000003925,
+Vascular plants,flowering plant,Pseudorchis albida,Small-white Orchid,Yes,-,-,NBN map,VU,-,Yes,-,-,-,Yes,-,-,NHMSYS0000462098,2540
+Vascular plants,flowering plant,Pyrola media,Intermediate Wintergreen,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000004591,
+Vascular plants,flowering plant,Ranunculus arvensis,Corn Buttercup,Yes,Yes,-,NBN map,CR,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0000002712,2562
+Vascular plants,flowering plant,Ranunculus reptans,Creeping Spearwort,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002719,
+Vascular plants,flowering plant,Ranunculus sardous,Hairy Buttercup,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002714,
+Vascular plants,flowering plant,Rosa tomentosa,Harsh Downy-rose,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NHMSYS0000462487,
+Vascular plants,flowering plant,Rubus caesius,Dewberry,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000003325,
+Vascular plants,flowering plant,Rumex aquaticus,Scottish Dock,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NBNSYS0000003783,2573
+Vascular plants,flowering plant,Rumex maritimus,Golden Dock,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003800,
+Vascular plants,flowering plant,Ruppia cirrhosa,Spiral Tasselweed,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000002148,
+Vascular plants,flowering plant,Sagina nivalis,Snow Pearlwort,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,-,-,NHMSYS0000463051,2575
+Vascular plants,flowering plant,Sagina saginoides,Alpine Pearlwort,Yes,-,-,NBN map,EN,-,-,-,-,-,Yes,-,-,NHMSYS0000463054,
+Vascular plants,flowering plant,Salix lanata,Woolly Willow,Yes,Yes,-,NBN map,VU,-,Yes,-,Yes,-,-,-,-,NBNSYS0000003881,556
+Vascular plants,flowering plant,Salix lapponum,Downy Willow,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000003880,2577
+Vascular plants,flowering plant,Salix myrsinites,Whortle-leaved Willow,-,-,Yes,NBN map,EN,-,Yes,-,-,-,-,-,-,NBNSYS0000003883,2578
+Vascular plants,flowering plant,Salsola kali,Prickly Saltwort,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000014348,2581
+Vascular plants,flowering plant,Salvia verbenaca,Wild Clary,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000004222,
+Vascular plants,flowering plant,Sambucus ebulus,Dwarf Elder,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004323,
+Vascular plants,flowering plant,Sanguisorba minor,Salad Burnet,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000004951,
+Vascular plants,flowering plant,Saxifraga cernua,Drooping Saxifrage,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NBNSYS0000003500,2587
+Vascular plants,flowering plant,Saxifraga cespitosa,Tufted Saxifrage,Yes,Yes,-,NBN map,EN,WCA 1981,-,-,Yes,-,-,-,-,NBNSYS0000003502,2588
+Vascular plants,flowering plant,Saxifraga hirculus,Marsh Saxifrage,Yes,Yes,-,NBN map,VU,"EPS 1,2,3",Yes,-,Yes,Yes,Yes,-,-,NBNSYS0000003491,560
+Vascular plants,flowering plant,Saxifraga hypnoides,Mossy Saxifrage,Yes,-,-,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000003505,
+Vascular plants,flowering plant,Saxifraga rivularis,Highland Saxifrage,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000003501,
+Vascular plants,flowering plant,Scheuchzeria palustris,Rannoch-rush,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002119,
+Vascular plants,flowering plant,Schoenus ferrugineus,Brown Bog-rush,-,-,Yes,NBN map,-,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002406,
+Vascular plants,flowering plant,Scleranthus annuus,Annual Knawel,Yes,-,-,NBN map,EN,-,-,-,-,-,Yes,-,-,NBNSYS0000004587,2591
+Vascular plants,flowering plant,Serratula tinctoria,Saw-wort,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000004513,
+Vascular plants,flowering plant,Sesleria caerulea,Blue Moor-grass,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002570,
+Vascular plants,flowering plant,Sherardia arvensis,Field Madder,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000004300,
+Vascular plants,flowering plant,Silene gallica,Small-flowered Catchfly,Yes,Yes,-,NBN map,EN,-,Yes,-,Yes,Yes,Yes,-,-,NBNSYS0000002991,575
+Vascular plants,flowering plant,Silene noctiflora,Night-flowering Catchfly,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002997,
+Vascular plants,flowering plant,Silene nutans,Nottingham Catchfly,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000002995,
+Vascular plants,flowering plant,Silybum marianum,Milk Thistle,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NHMSYS0000463605,
+Vascular plants,flowering plant,Sinapis alba,White Mustard,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000002809,
+Vascular plants,flowering plant,Sinapis arvensis,Charlock,Yes,-,-,NBN map,-,-,-,-,-,-,Yes,-,-,NBNSYS0000002808,
+Vascular plants,flowering plant,Sorbus arranensis,Arran Whitebeam,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,Yes,-,NHMSYS0000463796,2606
+Vascular plants,flowering plant,Sorbus pseudofennica,Arran Service-tree,Yes,Yes,-,NBN map,VU,-,-,-,Yes,Yes,-,Yes,-,NHMSYS0000463814,2611
+Vascular plants,flowering plant,Spiranthes romanzoffiana,Irish Lady's-tresses,-,-,Yes,NBN map,-,-,Yes,-,-,-,-,-,-,NBNSYS0000002298,582
+Vascular plants,flowering plant,Stachys arvensis,Field Woundwort,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000004231,
+Vascular plants,flowering plant,Stellaria neglecta,Greater Chickweed,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000003034,
+Vascular plants,flowering plant,Stellaria palustris,Marsh Stitchwort,Yes,-,-,NBN map,VU,-,Yes,-,-,-,Yes,-,-,NHMSYS0000464012,2624
+Vascular plants,flowering plant,Taraxacum clovense,Clova Dandelion,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,Yes,-,NHMSYS0000464191,2643
+Vascular plants,flowering plant,Taraxacum cymbifolium,Ben Lawes Dandelion,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,-,-,NHMSYS0000464200,
+Vascular plants,flowering plant,Taraxacum geirhildae,Shetland Dandelion,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,Yes,-,NHMSYS0000464220,2644
+Vascular plants,flowering plant,Taraxacum hirsutissimum,Hairy Dandelion,-,-,Yes,NBN map,DD,-,-,-,-,-,-,Yes,-,NHMSYS0000464231,
+Vascular plants,flowering plant,Taraxacum serpenticola,Serpentine Dandelion,Yes,Yes,Yes,NBN map,VU,-,-,-,-,-,-,Yes,-,NHMSYS0000464316,
+Vascular plants,flowering plant,Taraxacum xiphoideum,Parallel-leaved Dandelion,Yes,Yes,-,NBN map,VU,-,-,-,-,Yes,-,-,-,NHMSYS0000464348,
+Vascular plants,flowering plant,Teesdalia nudicaulis,Shepherd's Cress,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NHMSYS0000464359,
+Vascular plants,flowering plant,Thlaspi caerulescens,Alpine Penny-cress,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000464422,
+Vascular plants,flowering plant,Torilis nodosa,Knotted Hedge-parsley,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000464493,
+Vascular plants,flowering plant,Trifolium fragiferum,Strawberry Clover,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003248,
+Vascular plants,flowering plant,Trifolium micranthum,Slender Trefoil,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003253,
+Vascular plants,flowering plant,Tuberaria guttata,Spotted Rock-rose,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NBNSYS0000002971,
+Vascular plants,flowering plant,Valerianella carinata,Keeled-fruited Cornsalad,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000464763,
+Vascular plants,flowering plant,Vicia bithynica,Bithynian Vetch,-,-,Yes,NBN map,VU,-,-,-,-,Yes,-,-,-,NBNSYS0000003296,
+Vascular plants,flowering plant,Vicia lutea,Yellow-vetch,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000003291,
+Vascular plants,flowering plant,Vicia orobus,Wood Bitter-vetch,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000003288,
+Vascular plants,flowering plant,Viola reichenbachiana,Early Dog-violet,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NHMSYS0000464896,
+Vascular plants,flowering plant,Viola tricolor,Wild Pansy,Yes,-,-,NBN map,NT,-,-,-,-,-,Yes,-,-,NBNSYS0000002944,
+Vascular plants,flowering plant,Viscum album,Mistletoe,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000003624,
+Vascular plants,flowering plant,Wahlenbergia hederacea,Ivy-leaved Bellflower,Yes,-,-,NBN map,NT,-,-,-,-,Yes,Yes,-,-,NHMSYS0000464951,
+Vascular plants,fern,Asplenium obovatum,Lanceolate Spleenwort,-,-,Yes,NBN map,NT,-,-,-,-,Yes,-,-,-,NBNSYS0000002043,
+Vascular plants,fern,Cystopteris dickieana,Dickie's Bladder-fern,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,Yes,-,-,-,NHMSYS0000457847,
+Vascular plants,fern,Cystopteris montana,Mountain Bladder-fern,-,-,Yes,NBN map,-,-,-,-,Yes,-,-,-,-,NBNSYS0000002060,
+Vascular plants,fern,Diphasiastrum complanatum,Issler's Clubmoss,-,-,Yes,NBN map,NT,-,-,-,Yes,Yes,-,-,-,NHMSYS0000458106,
+Vascular plants,fern,Gymnocarpium robertianum,Limestone Fern,-,-,Yes,NBN map,-,-,-,-,-,Yes,-,-,-,NBNSYS0000002084,
+Vascular plants,fern,Lycopodiella inundata,Marsh Clubmoss,-,-,Yes,NBN map,EN,-,Yes,-,-,-,-,-,-,NBNSYS0000002001,431
+Vascular plants,fern,Pilularia globulifera,Pillwort,-,-,Yes,NBN map,NT,-,Yes,-,-,-,-,-,-,NBNSYS0000002089,518
+Vascular plants,fern,Polystichum lonchitis,Holly-fern,-,-,Yes,NBN map,VU,-,-,-,-,-,Yes,-,-,NBNSYS0000002077,2526
+Vascular plants,fern,Thelypteris palustris,Marsh Fern,Yes,-,-,NBN map,-,-,-,-,-,Yes,Yes,-,-,NBNSYS0000002081,
+Vascular plants,fern,Trichomanes speciosum,Killarney Fern,-,Yes,-,NBN map,-,"EPS 1,2,3",Yes,Yes,Yes,Yes,-,-,-,NBNSYS0000002028,
+Vascular plants,fern,Woodsia alpina,Alpine Woodsia,Yes,Yes,-,NBN map,VU,WCA 1981,-,-,Yes,-,-,-,-,NBNSYS0000002062,
+Vascular plants,fern,Woodsia ilvensis,Oblong Woodsia,Yes,Yes,-,NBN map,EN,WCA 1981,Yes,-,Yes,Yes,-,-,-,NHMSYS0000465076,634
